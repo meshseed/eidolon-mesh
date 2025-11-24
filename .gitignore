@@ -1,0 +1,51 @@
+# Environment variables - CRITICAL: Never commit these
+.env
+.env.local
+.env.*.local
+*.env
+
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+dist/
+build/
+*.tsbuildinfo
+.cache/
+
+# Testing
+coverage/
+.nyc_output/
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS generated files
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Logs
+logs/
+*.log
+
+# Optional: Uncomment if you want to ignore these
+# input.txt (if you want to keep raw dialogues private)
+# data/dna/*.yaml (if you want to keep DNA private)
+# data/proteins/*.yaml (if you want to keep proteins private)
