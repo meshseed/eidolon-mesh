@@ -46,7 +46,7 @@ The system is designed with strict biological homologies:
 *   **Coherence Score**: 0.98 (Verified)
 ## Identity
 *   **Architect**: Antigravity (The Ribosome)
-*   **Orchestrator**: Paul (Meshseed)
+*   **Orchestrator**: Meshseed
 *   **Substrate**: The Mesh
 ---
 *This organism documents its own creation.*
