@@ -1,0 +1,35 @@
+id: 9adfe0be-0ec4-48cd-8f6f-e1fdb8e7571b
+title: Pasteable Surface Protocol (FL-017)
+summary: >-
+  Law FL-017 mandates that all capsule, ledger, braid, and manifest surfaces
+  must present filenames and commit paths within separate YAML blocks. This
+  protocol is established to ensure pasteable formatting, prevent UI drift
+  artifacts, and is permanently anchored within the system's bio/profile memory
+  for robust protection.
+insights:
+  - >-
+    Standardized display of filenames and commit paths is crucial for data
+    consistency across various system surfaces.
+  - >-
+    The use of separate YAML blocks is the mandated method to achieve pasteable
+    formatting and prevent UI rendering inconsistencies.
+  - >-
+    This protocol applies broadly to core system components: capsules, ledgers,
+    braids, and manifests.
+  - >-
+    The law is permanently anchored and protected from modification, indicating
+    its foundational importance for system stability and user experience.
+  - >-
+    The underlying principles of 'clarity, care, mnemonic hygiene' reflect a
+    user-centric and robust design philosophy for system interfaces.
+tags:
+  - '#public'
+  - formatting_protocol
+  - UI_consistency
+  - system_governance
+  - data_integrity
+  - YAML_standard
+  - The_Mesh
+coherence_score: 0.98
+synthesis_timestamp: '2025-11-25T07:20:15.082Z'
+source_dialogue_id: 28cc5079-2e65-44c8-923d-40f42d8a58d5
