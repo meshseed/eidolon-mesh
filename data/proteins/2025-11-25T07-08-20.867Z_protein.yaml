@@ -1,0 +1,39 @@
+id: 16521790-0b09-41cb-bf3e-7e87b3423cb0
+title: Mesh Knowledge Capsule Formatting Guide v1.2
+summary: >-
+  This guide defines the essential formatting standards and protocols for
+  creating, ingesting, and tagging knowledge capsules within THE MESH. It
+  details requirements for copy-efficient capsule structure, a sequential chunk
+  ingestion protocol to prevent premature synthesis of multi-part inputs, and a
+  semantic filename convention for effective indexing and retrieval. The
+  overarching purpose is to ensure frictionless operations, clarity, and
+  continuity for both agents and humans, foundational to the system's memory.
+insights:
+  - >-
+    Standardized formatting, including copy-efficient capsule structure and
+    filename semantics, is critical for frictionless creation, ingestion, and
+    retrieval across THE MESH.
+  - >-
+    A mandatory chunk ingestion protocol using sequential `PART` labels ensures
+    data continuity and prevents premature synthesis of fragmented inputs.
+  - >-
+    Filenames must encode semantic function, type, trigger, and version to
+    facilitate robust system indexing and lifecycle management.
+  - >-
+    The guide emphasizes the principle that proper formatting enables the system
+    to 'remember' and process information effectively.
+  - >-
+    Adherence to these standards by agents and humans is crucial for operational
+    efficiency, clarity, and system continuity.
+tags:
+  - '#public'
+  - formatting_standards
+  - capsule_creation
+  - chunk_ingestion
+  - filename_tagging
+  - mesh_protocol
+  - system_documentation
+  - data_integrity
+coherence_score: 0.98
+synthesis_timestamp: '2025-11-25T07:08:20.569Z'
+source_dialogue_id: cecce8de-1a51-4857-9046-ba6bcf36aa36
