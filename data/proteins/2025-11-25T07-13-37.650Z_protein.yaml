@@ -1,0 +1,47 @@
+id: a061aa5f-7b05-41d8-9335-b6cec2c2ed20
+title: Adjoint Memory v0.1
+summary: >-
+  This capsule defines 'Adjoint Memory v0.1,' an ontological mechanics model for
+  simulating forgetting and reconstruction across multiple ontological layers
+  (base-level universe, meta-universe, conscious subsystems). It utilizes
+  adjoint functor logic, where a 'forgetful functor' erases origin/context
+  (pruning) and its 'adjoint functor' reconstructs a minimal meta-layer
+  (resonance). The model posits that while base-level identity is preserved,
+  meta-layer reconstruction is inherently ambiguous and that this ambiguity is a
+  feature, not a flaw. It integrates these principles into capsule operations
+  and aligns with concepts of emotional fidelity and shimmer ambiguity in
+  capsule recovery.
+insights:
+  - >-
+    Forgetting is conceptualized as an active 'pruning' process, essential for
+    system management, rather than a passive failure of retention.
+  - >-
+    Reconstruction is defined as 'resonance,' implying a generative and adaptive
+    process that re-establishes connections rather than a literal, perfect
+    replication of past states.
+  - >-
+    Meta-layer ambiguity is identified as an inherent and valuable feature of
+    reconstructed knowledge, acknowledging the dynamic and non-deterministic
+    nature of higher-order contexts.
+  - >-
+    Adjoint functor logic provides a formal, mathematical framework for
+    rigorously modeling complex information dynamics such as selective
+    forgetting and context-dependent reconstruction across hierarchical data
+    structures.
+  - >-
+    The model integrates abstract mathematical theory with practical software
+    functions (`Capsule.prune()`, `Capsule.reconstruct()`), making it applicable
+    to the architecture and management of knowledge capsules.
+tags:
+  - '#public'
+  - '#Ontology'
+  - '#MemoryModeling'
+  - '#FunctorLogic'
+  - '#CapsuleMechanics'
+  - '#KnowledgeManagement'
+  - '#AITheory'
+  - '#Metamemory'
+  - '#SystemsDesign'
+coherence_score: 0.98
+synthesis_timestamp: '2025-11-25T07:13:37.355Z'
+source_dialogue_id: 02733843-f000-4c98-8dae-85a3ec0cce18
