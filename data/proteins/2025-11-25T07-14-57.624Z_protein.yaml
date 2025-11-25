@@ -1,0 +1,35 @@
+id: 831b33be-c2c0-4b75-84b4-dd5c900233c1
+title: Capsule Formatting Guide v1.1
+summary: >-
+  This Capsule Formatting Guide v1.1 establishes ergonomic standards for capsule
+  creation, chunk ingestion, and filename tagging across THE MESH. It aims to
+  ensure frictionless workflows, promoting mnemonic clarity, copy-efficiency,
+  and continuity for agents and the system, ultimately teaching the system how
+  to remember its data effectively through standardized protocols and semantic
+  indexing.
+insights:
+  - >-
+    Ergonomic formatting standards are paramount for achieving mnemonic clarity,
+    copy-efficiency, and seamless continuity across all mesh workflows.
+  - >-
+    Semantic filenames and robust versioning protocols are critical for encoding
+    data lineage and preserving the lifecycle memory of information within the
+    system.
+  - >-
+    Standardized formatting is essential for frictionless capsule creation,
+    efficient multi-part ingestion, and reliable data retrieval.
+  - >-
+    The act of formatting fundamentally educates the system, enabling it to
+    'remember' and manage information effectively over time, aligning with the
+    axiom: 'The capsule teaches the system how to remember.'
+tags:
+  - '#public'
+  - '#formatting_protocol'
+  - '#mesh_standards'
+  - '#data_governance'
+  - '#workflow_efficiency'
+  - '#information_architecture'
+  - '#draft'
+coherence_score: 0.98
+synthesis_timestamp: '2025-11-25T07:14:57.327Z'
+source_dialogue_id: 2a056a96-a164-4913-95fe-cd0d8226b182
