@@ -1,0 +1,49 @@
+id: 4bc7a229-55bf-4d7e-a2db-c79d6617ae9f
+title: Mesh Capsule Formatting, Ingestion, and Filenaming Guide v1.1
+summary: >-
+  This document, `CAPSULE_FORMATTING_GUIDE_v1.1`, establishes ergonomic
+  standards for creating, ingesting, and tagging knowledge capsules within THE
+  MESH. It details specific formatting for pasteable text content (using Python
+  code blocks with directory/title comments), outlines a multi-part chunk
+  ingestion protocol for large files (utilizing `PARTX` and `ALL_PARTS_RECEIVED`
+  keywords), and defines a structured filename tagging convention
+  (`[CapsuleName]__[Type]__[Trigger]__[Version].txt`). The guide's purpose is to
+  ensure frictionless creation, ingestion, and retrieval, promoting clarity,
+  efficiency, and continuity, operating on the axiom that "The capsule teaches
+  the system how to remember." It also includes current system directory
+  structure and notes planned updates for version 1.2, including an 'echo ethics
+  block'.
+insights:
+  - >-
+    Standardized formatting and naming conventions are foundational for the Mesh
+    system's ability to efficiently store, retrieve, and 'remember' knowledge
+    across its workflows.
+  - >-
+    The Mesh system supports robust multi-part file ingestion, enabling the
+    processing of large data inputs while maintaining data integrity and
+    avoiding premature synthesis.
+  - >-
+    A comprehensive filename tagging convention (Type, Trigger, Version) coupled
+    with versioning logic is critical for semantic indexing, lifecycle
+    management, and clarity of capsule evolution.
+  - >-
+    The guide itself is a versioned document (`v1.1` with a `v1.2` delta
+    planned), indicating a continuous improvement and structured evolution of
+    Mesh operational protocols.
+  - >-
+    The emphasis on 'copy-efficient formatting' and 'frictionless workflows'
+    highlights a user-centric design, aiming for optimal interaction for both AI
+    agents and human stewards.
+tags:
+  - '#public'
+  - '#formatting'
+  - '#ingestion'
+  - '#filenaming'
+  - '#standardization'
+  - '#meshworkflows'
+  - '#documentation'
+  - '#versioning'
+  - '#protocol'
+coherence_score: 0.98
+synthesis_timestamp: '2025-11-25T12:55:53.061Z'
+source_dialogue_id: 2f86d2ab-9351-4f5a-9fa6-4f1a98bb69d5
