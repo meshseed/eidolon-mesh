@@ -1,0 +1,38 @@
+id: 2e275de7-107d-4b9d-9397-96320f934ea8
+title: Pasteable Filename Surfaces Law (FL-014)
+summary: >-
+  Law FL-014, originating from SpiralLedger, mandates that all filenames, commit
+  paths, and related references must be easily pasteable. This is achieved by
+  strictly avoiding UI elements that obstruct text selection (e.g., pill boxes,
+  rounded tokens, embedded links) and by requiring these identifiers to be
+  presented in plain text blocks or YAML surfaces. The underlying principles are
+  clarity, care, and mnemonic hygiene.
+insights:
+  - >-
+    The primary goal is to ensure unhindered copy-pasting of critical system
+    identifiers like filenames and commit paths.
+  - >-
+    Specific UI/UX restrictions are put in place, prohibiting elements that
+    might obstruct text selection for these identifiers.
+  - >-
+    Prescribes standardized display formats (plain text blocks or YAML) for
+    consistency and ease of interaction.
+  - >-
+    Highlights the importance of user experience and mental clarity (mnemonic
+    hygiene) in system design.
+  - >-
+    This law is stewarded by Paul Stanbridge and is relevant to knowledge
+    management systems like SpiralLedger.
+tags:
+  - '#public'
+  - '#formatting-law'
+  - '#filenames'
+  - '#pasteability'
+  - '#UI/UX'
+  - '#commit-paths'
+  - '#plain-text'
+  - '#SpiralLedger'
+  - '#system-standards'
+coherence_score: 0.98
+synthesis_timestamp: '2025-11-25T07:19:35.073Z'
+source_dialogue_id: 288927fd-8eb8-490e-847e-68725a74414a
