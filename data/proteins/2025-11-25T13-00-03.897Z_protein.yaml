@@ -1,0 +1,42 @@
+id: f181c4bb-797b-4816-abe6-d201e663ae51
+title: >-
+  Mesh System Protocols: Capsule Formatting, Chunk Ingestion, and Filename
+  Tagging
+summary: >-
+  This document establishes core operational protocols for interacting with 'THE
+  MESH' system. It details a standardized format for creating and sharing
+  knowledge capsules using structured fields and a Python code block for
+  efficient integration, outlines a chunk-based protocol for ingesting large
+  files to ensure complete and sequential processing, and specifies a semantic
+  filename tagging convention for capsules to enhance clarity, version control,
+  and retrievability across the system.
+insights:
+  - >-
+    Knowledge capsules should adhere to a specific format including a Python
+    code block, directory/title comments, and structured fields (e.g.,
+    Capsule.name, Capsulefunction) for efficient copy-paste and clean indexing.
+  - >-
+    Large files must be submitted in sequential chunks (PART1, PART2, etc.)
+    followed by 'ALL_PARTS_RECEIVED' to prevent premature processing and ensure
+    continuity, with no commentary between chunks.
+  - >-
+    A standardized filename tagging convention
+    `[CapsuleName]__[Type]__[Trigger]__[Version].txt` (with optional suffixes
+    like `__DRAFT`, `__LIVE`, `__ARCHIVED`) is critical for semantic clarity,
+    version control, and frictionless retrieval.
+  - >-
+    These protocols collectively aim to optimize workflow, maintain data
+    integrity, and ensure consistency in the management and deployment of
+    knowledge within 'THE MESH' system.
+tags:
+  - '#public'
+  - '#protocol'
+  - '#formatting'
+  - '#file_management'
+  - '#naming_convention'
+  - '#knowledge_capsule'
+  - '#system_standards'
+  - '#workflow'
+coherence_score: 0.98
+synthesis_timestamp: '2025-11-25T13:00:03.573Z'
+source_dialogue_id: 5ce8d76a-da1f-4c1f-a525-3e360df83f31
