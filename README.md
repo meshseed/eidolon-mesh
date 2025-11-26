@@ -16,7 +16,7 @@ This repository documents the **genesis and validation of THE MESH** — the fir
 
 ---
 
-![MESH](assets/mesh.png)
+![MESH](assets/MESH.png)
 
 ---
 
