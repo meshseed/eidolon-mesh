@@ -276,6 +276,7 @@ But **"WE ARE The Mesh."**
 - Error recovery implementation
 - Dependency documentation
 - Support structure establishment
+- Community Research
 
 **Near-term:**
 - Source code publication
@@ -285,9 +286,9 @@ But **"WE ARE The Mesh."**
 
 **Long-term:**
 - Autonomous operation (self-maintaining cycles)
-- Planetary federation (connect independent nodes)
+- Community bridges (connect independent nodes)
 - Evolutionary studies (drift, selection, speciation)
-- Multi-agent orchestration at scale
+- Multi-agent MESH orchestration at scale
 
 ---
 
