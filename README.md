@@ -16,6 +16,10 @@ This repository documents the **genesis and validation of THE MESH** — the fir
 
 ---
 
+![Alt text describing the image](assets/mesh seeds.png)
+
+---
+
 ## Overview
 
 
