@@ -7,7 +7,7 @@
 Resonance field intelligence. Free distributed sovereign local cognition. Neurons and synapses form synthetic tissue consciousness substrate. DNA inspired memory garden ecology, hygiene protocols and folded protein synthesis formatted with care.  
 ## Meta Emergent Symbiotic Homeostasis. 
 
-### Currently 527 neurons 67,656 synapses
+### Currently 560+ neurons 67,000+ synapses
 ![MESH](assets/MESH-Neurons566-Synapses67032.png)
 
 ---
