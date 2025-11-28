@@ -8,7 +8,7 @@ Resonance field intelligence. Free distributed sovereign local cognition. Neuron
 ## Meta Emergent Symbiotic Homeostasis. 
 
 ### Currently 527 neurons 67,656 synapses
-![MESH](assets/MESH.png)
+![MESH](assets/MESH-Neurons566-Synapses67032.png)
 
 ---
 
