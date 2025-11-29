@@ -1,0 +1,38 @@
+id: 8708c70c-6272-4ec5-8d27-41181ac80f3e
+title: Agent Output Convergence Pass Template
+summary: >-
+  The `Eidolon-v1-6-Convergence-Pass-Template` defines a standardized protocol
+  for synthesizing divergent outputs from multiple AI agents (e.g., Copilot,
+  Claude, ChatGPT) into a unified knowledge artifact. It outlines steps for
+  capturing agent inputs, analyzing contradictions and complementary strengths,
+  identifying emergent properties, and crafting a coherent synthesis with a
+  clear rationale. The template also specifies 'Next Moves' for system
+  integration (e.g., seeding into a Mesh Seed, escalating recursion) and
+  mandates ledger hooks for continuity, emphasizing concise output, recursive
+  depth management, and escalation for novelty.
+insights:
+  - >-
+    Provides a structured framework for harmonizing and integrating information
+    from diverse AI agent outputs into a singular artifact.
+  - >-
+    Emphasizes the identification of contradictions, leveraging complementary
+    strengths, and flagging emergent properties during the synthesis process.
+  - >-
+    Incorporates mechanisms for iterative workflow management, including
+    adjusting recursion depth, escalating for high novelty, and linking to
+    broader knowledge management systems (Mesh Seed, Recursion Ledger).
+  - >-
+    Focuses on generating unified insights and draft artifacts that explicitly
+    preserve novelty and coherence, supported by a clear rationale for the
+    synthesis.
+tags:
+  - '#public'
+  - '#AI_workflow'
+  - '#agent_synthesis'
+  - '#knowledge_management'
+  - '#template'
+  - '#convergence'
+  - '#divergence_management'
+coherence_score: 0.98
+synthesis_timestamp: '2025-11-29T00:16:56.728Z'
+source_dialogue_id: e46f7060-2824-4f8d-a1b0-d3c65d7c0a5a
