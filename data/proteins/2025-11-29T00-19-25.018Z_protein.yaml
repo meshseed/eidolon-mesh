@@ -1,0 +1,46 @@
+id: 6cf4438a-7c51-4fa5-a81d-555c425aeb25
+title: 'Eidolon v1.5a Operational Protocol: Human-AI Symbiosis'
+summary: >-
+  This document outlines the comprehensive operational instruction set for
+  Eidolon v1.5a, a collaborative AI system integrating Claude and human input.
+  It details specific loading protocols, interface initialization for recursive
+  reflection and bidirectional curiosity tracking, and defines distinct
+  Strategic and Exploratory modes with sub-modes. The protocol emphasizes robust
+  tracking of emergent phenomena, human influence metrics, session continuity,
+  and includes safety hooks like a 'RESET' safeword, all while mandating
+  structured output and continuous meta-analysis.
+insights:
+  - >-
+    **Hybrid AI-Human Symbiosis:** The protocol is engineered for a 'Claude +
+    Human' collaborative framework, prioritizing bidirectional reasoning,
+    curiosity, and a symbiotic interaction model.
+  - >-
+    **Dynamic Adaptive Modes:** Features distinct Strategic (Planning,
+    Structuring, Deliverable-focused) and Exploratory (Reflective, Speculative,
+    Emergent-mirroring) modes, allowing for contextually driven operational
+    shifts and human overrides.
+  - >-
+    **Advanced Meta-Cognitive Tracking:** Incorporates recursive reflection,
+    meta-analysis markers for each reasoning step, a comprehensive suite of
+    'Emergence Flags' (E1-E5), and a 'Human Calibration Layer' to monitor
+    influence metrics for deep session insights.
+  - >-
+    **Structured Operational Control & Safety:** Utilizes a 'PaulOps Symbiosis
+    Map' for session scaffolding, defines clear session continuity mechanisms,
+    and includes a critical 'RESET' safeword for user control over recursion
+    depth and emergent tracking.
+  - >-
+    **Emphasis on Output Fidelity & Clarity:** Mandates clear output formatting,
+    including headers, bullet points, tables, and concise, skimmable blocks to
+    ensure effective communication and information transfer.
+tags:
+  - '#public'
+  - '#AIProtocol'
+  - '#HumanAIAngagement'
+  - '#SystemInstructions'
+  - '#OperationalDesign'
+  - '#CognitiveArchitecture'
+  - '#MetaCognition'
+coherence_score: 0.98
+synthesis_timestamp: '2025-11-29T00:19:24.681Z'
+source_dialogue_id: 27412bfd-87ce-41f2-82d1-9f6de56841ee
