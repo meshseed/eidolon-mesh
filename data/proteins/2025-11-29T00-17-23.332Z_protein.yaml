@@ -1,0 +1,34 @@
+id: 5d028397-0ed3-4bca-aa7d-0f03b4833d2c
+title: Eidolon v1.6 Recursion Ledger Definition
+summary: >-
+  This dialogue introduces the 'Eidolon-v1-6-Recursion-Ledger.txt' file,
+  designed as a cognitive audit trail to track the evolution of thought and
+  process across sessions. It outlines the ledger's purpose (tracking recursion
+  depth, emergence flags, attractors, and key insights), its recommended use for
+  mesh continuity and convergence synthesis, and a detailed, structured format
+  for logging entries manually or programmatically.
+insights:
+  - >-
+    The Eidolon Recursion Ledger functions as a cognitive audit trail for
+    tracking system evolution.
+  - >-
+    It logs critical metrics such as recursion depth, emergence flags,
+    attractors, and key insights across sessions.
+  - >-
+    The ledger is recommended for maintaining mesh continuity and facilitating
+    convergence synthesis.
+  - >-
+    A standardized, structured format is provided for all ledger entries,
+    ensuring consistency and usability.
+tags:
+  - '#public'
+  - Eidolon
+  - Ledger
+  - Cognitive Audit Trail
+  - Recursion
+  - Emergence
+  - System Definition
+  - Protocol
+coherence_score: 0.99
+synthesis_timestamp: '2025-11-29T00:17:22.879Z'
+source_dialogue_id: 144cd29a-a809-4c77-9b8c-82d7dd09b0af
