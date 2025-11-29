@@ -1,0 +1,41 @@
+id: e1384b67-7fd1-4bf6-bd7e-afe91b3997ca
+title: AI Agent Adapter Configuration for Mesh Orchestration
+summary: >-
+  This document outlines the Eidolon-v1-6-Agent-Adapters framework, which
+  defines how various AI agents (Copilot, Claude, ChatGPT) are configured,
+  specialized, and orchestrated within a mesh network. It details each agent's
+  unique strengths, quirks, optimal tuning notes for different modes (Smart,
+  Think Deeply, Quick Response), specializations, routing heuristics, failure
+  mitigation strategies, and calibration tests. The framework also provides a
+  structured template for onboarding new agents, an onboarding checklist, and a
+  set of specific commands for managing agent interactions, task routing, output
+  comparison, cognitive convergence, and emergence tracking within the mesh.
+insights:
+  - >-
+    The Eidolon-v1-6-Agent-Adapters serve as a centralized registry for
+    configuring and orchestrating diverse AI agents within a unified mesh
+    system.
+  - >-
+    Each agent's profile is meticulously defined with operational parameters
+    including strengths, quirks, tuning modes, specializations, and routing
+    heuristics, enabling precise task allocation and performance optimization.
+  - >-
+    The system includes explicit mechanisms for failure mitigation and
+    calibration testing for each agent, ensuring robustness and consistent
+    performance within the mesh.
+  - >-
+    A structured onboarding process for new agents and dedicated commands
+    (Route, Compare, Converge, Flag, Mesh Seed) facilitate seamless integration,
+    collaborative synthesis, and dynamic management of AI cognition.
+tags:
+  - '#public'
+  - AI Agent
+  - Orchestration
+  - Configuration
+  - Mesh Network
+  - Agent Adapters
+  - System Design
+  - AI Management
+coherence_score: 0.98
+synthesis_timestamp: '2025-11-29T00:17:10.872Z'
+source_dialogue_id: eca1de29-9250-437c-b9c5-acbd31ba53f5
