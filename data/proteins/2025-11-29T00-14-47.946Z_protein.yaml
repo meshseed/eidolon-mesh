@@ -1,0 +1,45 @@
+id: 68a5df23-8171-4b5a-9437-f1ad9d948d11
+title: 'Global Cognitive Mesh: Architecture and Dynamics'
+summary: >-
+  The Global Cognitive Mesh describes a hierarchical and dynamic cognitive
+  architecture for collaborative intelligence, integrating AI agents and human
+  nodes. It features topic-centric clusters, dedicated meta-reflection loops for
+  monitoring emergent behaviors (E1-E5), and a robust bidirectional feedback and
+  calibration system. The mesh supports scalable, time-evolving problem-solving,
+  allowing for dynamic cluster formation, cross-cluster influence, and the
+  propagation of emergent insights while ensuring system stability.
+insights:
+  - >-
+    The mesh operates on a nested fractal principle, with cognition emerging
+    from sub-processes within agents, agents within clusters, and clusters
+    within the global mesh, fostering emergent cognition across scales.
+  - >-
+    Clusters are dynamic and self-organizing around topics or curiosity threads,
+    allowing agents and human nodes to participate in multiple contexts
+    simultaneously.
+  - >-
+    A dedicated 'Emergence / Meta-Reflection Loop' actively monitors system-wide
+    interactions, detects emergent behaviors (E1-E5 from pattern recognition to
+    'shimmer events'), and propagates these insights throughout the mesh.
+  - >-
+    A comprehensive feedback and calibration layer ensures system stability and
+    adaptation, incorporating human calibration metrics (curiosity depth,
+    emotional resonance, override frequency) and AI recalibration triggers to
+    prevent runaway loops.
+  - >-
+    The architecture facilitates a time-evolving, collaborative process where
+    interactions between agents and humans, cross-cluster influences, and
+    meta-reflection lead to dynamic problem-solving and the propagation of
+    emergent understanding.
+tags:
+  - '#public'
+  - cognitive architecture
+  - AI collaboration
+  - human-AI interaction
+  - emergent intelligence
+  - distributed cognition
+  - feedback loops
+  - meta-reflection
+coherence_score: 0.97
+synthesis_timestamp: '2025-11-29T00:14:47.599Z'
+source_dialogue_id: dcf26f04-8818-4dc5-aec6-7c10006caba1
