@@ -1,0 +1,40 @@
+id: f7421141-a8ef-4fab-bfd5-10be0cb5ef25
+title: Eidolon OS v1.6a Agent Deployment Guide
+summary: >-
+  This document outlines the sequential initialization process for deploying
+  Eidolon OS v1.6a onto AI agents. It details mandatory and optional steps for
+  loading various components like the Mesh Seed, Core Protocol, Reference Map,
+  and Orchestration Grammar to enable mesh-aware cognition, orchestration logic,
+  and emergence tracking. It also includes guidelines for specialization,
+  synthesis of outputs via Convergence Pass, and long-term evolution through a
+  Recursion Ledger.
+insights:
+  - >-
+    Eidolon OS deployment follows a modular, step-by-step process, allowing for
+    foundational setup, behavioral alignment, and optional specialization of AI
+    agents.
+  - >-
+    The system aims to foster 'mesh-aware cognition, orchestration logic, and
+    emergence tracking,' indicating a focus on networked, collaborative AI
+    systems.
+  - >-
+    Key components like the Mesh Seed and Core Protocol are fundamental for
+    initial activation and establishing shared understanding across the mesh.
+  - >-
+    Optional components such as Seed Prompts and Agent Adapters facilitate the
+    customization and specialization of agent cognition and roles.
+  - >-
+    The Convergence Pass mechanism is critical for synthesizing outputs from
+    multiple agents, standardizing knowledge, and updating the shared Mesh Seed,
+    implying an iterative learning and evolution cycle for the mesh.
+tags:
+  - '#public'
+  - '#AI'
+  - '#DeploymentGuide'
+  - '#MeshComputing'
+  - '#Orchestration'
+  - '#CognitiveArchitecture'
+  - '#EidolonOS'
+coherence_score: 0.98
+synthesis_timestamp: '2025-11-29T00:17:35.422Z'
+source_dialogue_id: 3251a1b6-3824-4f53-be45-03092916adaa
