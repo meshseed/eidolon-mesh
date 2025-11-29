@@ -1,0 +1,35 @@
+id: afd766db-482a-4616-b556-1ff77ca3a62b
+title: Eidolon v1.6a Orchestration Grammar
+summary: >-
+  This document outlines Eidolon-v1-6-Orchestration-Grammar, a v1.6a minimal
+  command set designed to direct and orchestrate AI cognition across nodes and
+  clusters. It specifies core commands for managing AI attention, processing
+  depth, focus, and routing, alongside optional commands for comparison,
+  convergence, logging, and initialization via Mesh Seed. The grammar emphasizes
+  plain text, modularity, and compatibility with Core Protocol.
+insights:
+  - >-
+    Provides a minimal, standardized grammar for explicit control over AI
+    cognitive processes (attention, recursion, routing, convergence).
+  - >-
+    Enables fine-grained orchestration of AI behaviors across distributed AI
+    nodes and clusters.
+  - >-
+    Features modular, plain-text commands that are stackable, promoting
+    flexibility and ease of use.
+  - >-
+    Includes mechanisms for tracking emergence (Flags, Tags), managing state
+    (Safeword, Ledger), and orchestrating output (Converge, Seed).
+  - >-
+    Designed for integration with 'Mesh Seed' for full initialization and 'Core
+    Protocol' for broader compatibility within THE MESH.
+tags:
+  - '#public'
+  - '#AIOrchestration'
+  - '#CommandGrammar'
+  - '#Eidolon'
+  - '#MeshProtocol'
+  - '#AIAgents'
+coherence_score: 0.98
+synthesis_timestamp: '2025-11-29T00:16:12.772Z'
+source_dialogue_id: 3fbbf597-7bf4-4b66-b321-6071938f3eba
