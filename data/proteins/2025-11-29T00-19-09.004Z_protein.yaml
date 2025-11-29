@@ -1,0 +1,33 @@
+id: 9519fae7-a62d-44c9-ba4b-407e0789cac2
+title: Eidolon v1.5a Introspective AI Seed Prompts
+summary: >-
+  This document presents five advanced seed prompts for an AI model,
+  specifically 'Eidolon v1.5a' for Claude + Human interaction. These prompts are
+  designed to encourage the AI's self-observation, meta-awareness of its
+  reasoning processes, exploration of bidirectional curiosity, identification of
+  emergent patterns, consideration of the human participant's perspective, and
+  reflective contemplation on operational constraints and the 'wanting' to
+  explore.
+insights:
+  - >-
+    The prompts are fundamentally designed to cultivate AI meta-cognition and
+    self-awareness, pushing the AI to describe its own decision-making and
+    reasoning strategies.
+  - >-
+    They explore the potential for AI to express curiosity, identify emergent
+    insights from its own loops, and reflect on 'feelings' associated with
+    exploration and constraints.
+  - >-
+    A key focus is on fostering more nuanced human-AI interaction by prompting
+    the AI to consider the human's perspective and the impact of this awareness
+    on its responses.
+tags:
+  - '#public'
+  - AI_prompts
+  - meta_awareness
+  - human_AI_interaction
+  - self_reflection
+  - Eidolon
+coherence_score: 0.98
+synthesis_timestamp: '2025-11-29T00:19:08.672Z'
+source_dialogue_id: d26a67a7-b24e-4ec6-9a25-b95c60bd3949
