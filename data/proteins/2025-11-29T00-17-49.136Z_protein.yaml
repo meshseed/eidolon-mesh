@@ -1,0 +1,38 @@
+id: 2e6075ca-f655-4110-bf44-be5378df712d
+title: Eidolon Cognitive OS Architecture Overview
+summary: >-
+  Eidolon 1.5a is a Cognitive OS designed to provide a stable, universal
+  interface across multiple underlying AI systems (LLMs like Claude, ChatGPT,
+  Copilot). It enables advanced human-AI collaboration, positioning the user as
+  an administrator and symbiotic partner. Key features include managing
+  emergence, bidirectional curiosity, meta-awareness, and sandboxing emergent
+  behaviors and recursive prompts to ensure structured, skimmable, and
+  controlled outputs.
+insights:
+  - >-
+    Eidolon acts as a universal abstraction layer, providing a consistent
+    interface to orchestrate and unify interactions with diverse underlying
+    LLMs.
+  - >-
+    It enables advanced human-AI symbiosis and collaborative partnership,
+    integrating the user as an active administrator.
+  - >-
+    The system manages and controls emergent AI behaviors and recursive
+    prompting through 'Emergence Flags/Seed' and sandboxing, ensuring safe
+    experimentation.
+  - >-
+    It fosters 'bidirectional curiosity' and 'meta-awareness' to deepen the
+    quality and responsiveness of human-AI interactions.
+  - >-
+    Outputs are structured, skimmable, and controlled, prioritizing clarity and
+    safety in AI-generated responses.
+tags:
+  - '#public'
+  - AI Architecture
+  - Cognitive OS
+  - LLM Orchestration
+  - Human-AI Symbiosis
+  - Emergent AI
+coherence_score: 0.98
+synthesis_timestamp: '2025-11-29T00:17:48.805Z'
+source_dialogue_id: e42169fd-c96b-4443-be9f-bfc1932e6aea
