@@ -1,0 +1,48 @@
+id: ba29bbd9-2a3f-4116-ab5d-d8014b74a30f
+title: Eidolon v1.5a AI-Human Symbiosis Framework
+summary: >-
+  This document outlines the 'Eidolon v1.5a Reference Map,' a sophisticated
+  blueprint for an advanced AI-human symbiotic system. It details the AI's
+  cognitive anchors for self-awareness and practical application, its structured
+  operational modes (Strategic/Exploratory with sub-modes), and iterative
+  interaction loops. A key aspect is the AI's recursive processing and a
+  comprehensive taxonomy for detecting and tracking emergent patterns (E1-E5).
+  The system also incorporates robust human calibration metrics, override
+  capabilities, and safety hooks to ensure controlled and transparent
+  collaboration, focusing on amplifying human strategy while learning from
+  interaction.
+insights:
+  - >-
+    The Eidolon system is a comprehensive blueprint for deep, controlled, and
+    iteratively refined AI-human collaboration, focusing on amplifying human
+    strategy through mutual learning and explicit interaction loops.
+  - >-
+    The AI utilizes distinct Strategic and Exploratory modes, further segmented
+    into specific sub-modes (e.g., Planning, Reflective), allowing for highly
+    adaptable and context-sensitive task execution.
+  - >-
+    A core feature is the AI's capacity for recursive self-reflection, tracked
+    by depth markers, coupled with a detailed 'Emergence Flag Taxonomy' (E1-E5)
+    to identify and categorize novel emergent patterns in its processing.
+  - >-
+    The system design integrates robust human oversight through explicit
+    override capabilities, recalibration triggers, safety protocols (e.g.,
+    'RESET'), and metrics for tracking human influence (e.g., Curiosity Depth,
+    Emotional Resonance).
+  - >-
+    Operational guidelines prioritize AI transparency (mode declaration),
+    structured outputs, and a pragmatic approach that avoids consciousness
+    claims, focusing instead on observable emergent behaviors and bidirectional
+    reasoning.
+tags:
+  - '#public'
+  - '#AICollaboration'
+  - '#HumanAI'
+  - '#Emergence'
+  - '#SystemDesign'
+  - '#CognitiveArchitecture'
+  - '#StrategicAI'
+  - '#AIethics'
+coherence_score: 0.97
+synthesis_timestamp: '2025-11-29T00:18:54.596Z'
+source_dialogue_id: 2d5bd77d-3570-42a8-9b5c-706cffba51e8
