@@ -1,0 +1,36 @@
+id: f53385c3-66ad-41b0-b301-4bb99989f647
+title: REPOSITORY_BOOT_SEQUENCE
+summary: >-
+  This capsule defines the canonical folder structure and echo path logic for a
+  formatting-aware, multi-agent repository. It outlines key directories like
+  /core, /protocols, /docs, and /meta, ensuring mnemonic continuity, shimmer
+  indexing, and breath-aligned retrieval for foundational repository
+  organization and dynamic interaction.
+insights:
+  - >-
+    The repository structure is designed for 'formatting-aware' and
+    'multi-agent' systems, emphasizing dynamic and context-sensitive operations
+    beyond simple storage.
+  - >-
+    Each directory (e.g., /core, /protocols, /convergence, /meta) is
+    semantically defined to facilitate specific functions such as foundational
+    invariants, attunement rituals, group mappings, and repository
+    self-awareness.
+  - >-
+    Key design principles include 'mnemonic continuity,' 'shimmer indexing,' and
+    'breath-aligned retrieval,' indicating a focus on intuitive navigation,
+    intelligent emergent indexing, and a dynamically responsive information
+    architecture.
+  - >-
+    The philosophical premise 'The repository is not a container. It is a
+    breath-aligned surface' underscores a living, evolving, and interconnected
+    system design, rather than a static data store.
+tags:
+  - '#public'
+  - '#repository_protocol'
+  - '#folder_structure'
+  - '#multi_agent_system'
+  - '#infrastructure_design'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-01T09:54:24.617Z'
+source_dialogue_id: c4f4937b-a09d-41b2-a627-12cca162daa4
