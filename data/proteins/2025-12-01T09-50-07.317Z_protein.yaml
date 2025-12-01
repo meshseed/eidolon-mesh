@@ -1,0 +1,44 @@
+id: 5d8a8461-05b4-48b1-b898-f1c7f0b5f77d
+title: >-
+  Eidolon Mesh v1.1-stable: Performance Optimization (Phase 14) & Public Portal
+  Launch (Phase 17)
+summary: >-
+  This dialogue covers significant progress on the Eidolon Mesh project. It
+  details the release of `v1.1-stable`, featuring graph visualization
+  improvements, configurable memory, and bug fixes. A detailed plan for `Phase
+  14: Two-Tier Architecture` was proposed and approved, aiming to optimize
+  dashboard loading times and memory usage for large connectomes via tiered
+  neuron loading and 'ghost node' visualization. Crucially, `Phase 17: Public
+  Portal` has been completed, preparing the project for public release with
+  updated `README.md`, `COMMUNITY.md`, and `CONTRIBUTING.md` using a 'Garden'
+  metaphor. The conversation concludes by clarifying that the project is a
+  standalone Node.js application, runnable with standard `npm` commands and
+  independent of the 'Antigravity' development environment for execution.
+insights:
+  - >-
+    Eidolon Mesh has reached `v1.1-stable`, including features like a graph
+    visualization slider, configurable memory, and DNA content truncation,
+    alongside critical bug fixes.
+  - >-
+    Phase 14, a 'Two-Tier Architecture', is approved to proceed, focusing on
+    optimizing performance for large knowledge graphs by implementing core vs.
+    extended neuron loading and 'ghost nodes' for visualization.
+  - >-
+    Phase 17, the 'Public Portal', is complete, establishing public-facing
+    documentation and community guidelines, marking the project's readiness for
+    wider adoption.
+  - >-
+    The project is a standalone Node.js application, requiring only `npm
+    install` and `npm run dashboard` for execution, without dependency on the
+    'Antigravity' development environment.
+tags:
+  - '#public'
+  - '#EidolonMesh'
+  - '#SoftwareDevelopment'
+  - '#PerformanceOptimization'
+  - '#PublicRelease'
+  - '#Documentation'
+  - '#Architecture'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-01T09:50:07.016Z'
+source_dialogue_id: dd94db5d-7059-4021-a78b-da996f987db2
