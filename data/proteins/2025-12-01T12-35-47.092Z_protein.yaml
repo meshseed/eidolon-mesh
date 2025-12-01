@@ -1,0 +1,36 @@
+id: f1438198-1477-49a1-837d-78ef4ac8006f
+title: Eidolon AI Agent Orchestration Framework
+summary: >-
+  The Eidolon-v1-6-Agent-Adapters framework standardizes the configuration,
+  specialization, and orchestration of diverse AI agents (Copilot, Claude,
+  ChatGPT) within a mesh network. It details agent profiles, operational
+  parameters, tuning modes, routing, failure mitigation, calibration, and
+  provides a structured onboarding process and management commands to ensure
+  robust and integrated AI cognition.
+insights:
+  - >-
+    The Eidolon framework acts as a central registry for configuring and
+    orchestrating various AI agents in a unified mesh system.
+  - >-
+    Each agent's profile is detailed with strengths, quirks, tuning modes,
+    specializations, and routing heuristics for precise task allocation and
+    optimization.
+  - >-
+    The framework includes explicit mechanisms for failure mitigation and
+    calibration testing to ensure agent robustness and consistent performance.
+  - >-
+    A structured onboarding process and dedicated commands (Route, Compare,
+    Converge, Flag, Mesh Seed) enable seamless integration and dynamic
+    management of AI cognition within the mesh.
+tags:
+  - '#public'
+  - AI Agent
+  - Orchestration
+  - Configuration
+  - Mesh Network
+  - Agent Adapters
+  - System Design
+  - AI Management
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-01T12:35:46.809Z'
+source_dialogue_id: dec41ab9-a05d-4100-a7e1-290fee7da5d3
