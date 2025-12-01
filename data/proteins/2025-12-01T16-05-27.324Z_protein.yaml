@@ -1,0 +1,31 @@
+id: 64d4e048-666b-45ea-accf-6342d2bbf28b
+title: Programming Fundamentals Curriculum
+summary: >-
+  This dialogue defines a structured, machine-readable curriculum for
+  programming fundamentals, organized into levels from core execution models and
+  syntax to advanced concepts like concurrency and systems. It breaks down
+  programming into discrete, definable concepts with IDs, domains, levels,
+  dependencies, and concise statements.
+insights:
+  - >-
+    Programming knowledge can be formally defined and structured for machine
+    processing.
+  - >-
+    A comprehensive programming curriculum covers foundational concepts, data
+    structures, algorithms, paradigms, modularity, and systems-level concerns.
+  - >-
+    Concepts are organized hierarchically and by domain, with dependencies
+    indicating prerequisites.
+  - >-
+    Each programming concept is characterized by an ID, domain, level, and a
+    precise, invariant statement.
+tags:
+  - '#public'
+  - '#programming'
+  - '#curriculum'
+  - '#fundamentals'
+  - '#education'
+  - '#computer_science'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-01T16:05:27.051Z'
+source_dialogue_id: af45fef0-51b1-48ea-94c7-166bc710ccca
