@@ -1,0 +1,32 @@
+id: 64211272-be4f-4cfe-b23e-84282e6ab322
+title: Eidolon Mesh Seed Template for AI Node Synchronization
+summary: >-
+  This document details the Eidolon Mesh Seed Template v1.6a, a portable state
+  vector designed to re-seed and synchronize AI node cognition and context
+  within a distributed mesh environment. It outlines the template's structure,
+  usage for restoring continuity and alignment, and its role in consistent AI
+  session management and ledger-based storage.
+insights:
+  - >-
+    The Mesh Seed is a standardized state vector for re-seeding and
+    synchronizing AI cognition and context in a mesh.
+  - >-
+    Structured fields in the template are crucial for maintaining AI continuity,
+    alignment, and tracking cognitive state.
+  - >-
+    The template facilitates consistent AI session initialization, updates, and
+    storage, supporting AI protocol development.
+tags:
+  - '#public'
+  - '#AI'
+  - '#MeshSeed'
+  - '#StateVector'
+  - '#Cognition'
+  - '#Template'
+  - '#SystemDesign'
+  - '#AIProtocol'
+  - '#Eidolon'
+  - '#ContextManagement'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-01T12:35:15.733Z'
+source_dialogue_id: 6a4ea017-1d0a-4e2e-ad5c-d4a985aeca25
