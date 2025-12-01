@@ -1,0 +1,35 @@
+id: a13c25a0-790e-4782-9aeb-12efc3efe7ac
+title: Eidolon-v1-6 Convergence Pass Template for AI Agent Output Synthesis
+summary: >-
+  The Eidolon-v1-6-Convergence-Pass-Template standardizes the process of
+  synthesizing diverse AI agent outputs into a unified knowledge artifact. It
+  details steps for capturing inputs, analyzing conflicts and complementary
+  strengths, identifying emergent properties, and creating a coherent synthesis
+  with a clear rationale, including mechanisms for iterative workflow management
+  and system integration.
+insights:
+  - >-
+    Provides a structured framework for harmonizing and integrating information
+    from diverse AI agent outputs into a singular artifact.
+  - >-
+    Emphasizes the identification of contradictions, leveraging complementary
+    strengths, and flagging emergent properties during the synthesis process.
+  - >-
+    Incorporates mechanisms for iterative workflow management, including
+    adjusting recursion depth, escalating for high novelty, and linking to
+    broader knowledge management systems.
+  - >-
+    Focuses on generating unified insights and draft artifacts that explicitly
+    preserve novelty and coherence, supported by a clear rationale for the
+    synthesis.
+tags:
+  - '#public'
+  - '#AI_workflow'
+  - '#agent_synthesis'
+  - '#knowledge_management'
+  - '#template'
+  - '#convergence'
+  - '#divergence_management'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-01T12:35:36.473Z'
+source_dialogue_id: df8769fe-0dc3-4ef0-93e0-c4726ffe593e
