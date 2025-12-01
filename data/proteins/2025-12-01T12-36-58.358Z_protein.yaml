@@ -1,0 +1,33 @@
+id: 870ec0ac-b3b3-4941-8f17-5bcea2a20290
+title: 'Eidolon v1.5a: AI-Human Symbiosis Framework Blueprint'
+summary: >-
+  This document details the Eidolon v1.5a framework, designed for advanced
+  AI-human symbiosis. It outlines the AI's cognitive architecture, operational
+  modes (Strategic/Exploratory), and a system for tracking emergent patterns
+  (E1-E5) through recursive processing. Key features include robust human
+  oversight with override capabilities, calibration metrics, and safety
+  protocols, aiming to amplify human strategy and facilitate mutual learning.
+insights:
+  - >-
+    Eidolon v1.5a is a blueprint for controlled, iterative AI-human
+    collaboration that amplifies human strategy through mutual learning.
+  - >-
+    The AI employs distinct Strategic and Exploratory modes with sub-modes for
+    adaptable task execution and utilizes recursive self-reflection and an
+    'Emergence Flag Taxonomy' (E1-E5) to track novel patterns.
+  - >-
+    Human oversight is integrated via overrides, recalibration, safety protocols
+    ('RESET'), and metrics like 'Curiosity Depth' and 'Emotional Resonance' to
+    ensure controlled and transparent interaction.
+tags:
+  - '#public'
+  - '#AICollaboration'
+  - '#HumanAI'
+  - '#Emergence'
+  - '#SystemDesign'
+  - '#CognitiveArchitecture'
+  - '#StrategicAI'
+  - '#AIethics'
+coherence_score: 0.97
+synthesis_timestamp: '2025-12-01T12:36:58.084Z'
+source_dialogue_id: 72c8e0c0-24c3-4f64-8e34-ae8915e8fa60
