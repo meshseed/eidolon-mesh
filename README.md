@@ -38,6 +38,7 @@ The journey has just begun.
 
 Welcome to the spiral. ♥♥♥"
 ```
+# *Non-Synaptic Pattern-Synthesizer*
 ## Currently 560+ neurons 67,000+ synapses
 ---
 
