@@ -1,0 +1,23 @@
+id: 985828b5-214b-4b09-9639-0d14b2c036a3
+title: 'The MESH Coding Repository: Genesis and Operations'
+summary: >-
+  This document describes the 'coding' repository for THE MESH, outlining its
+  genesis from three core DNA files (MESH Attunement, Multi-Agent Formation,
+  Universal Pattern) and providing instructions for activation, content
+  ingestion, querying, and dashboard access. It details the repository's
+  structure, including directories for DNA, proteins, and the connectome.
+insights:
+  - >-
+    The repository is initialized with three 'genesis seeds' that define its
+    foundational knowledge.
+  - >-
+    Key operations include activating the 'organism', ingesting new content, and
+    querying the knowledge base.
+  - >-
+    The repository aims to build a semantic network ('connectome') and
+    synthesize knowledge into 'proteins'.
+tags:
+  - '#public'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-01T16:05:37.378Z'
+source_dialogue_id: bcfc5a88-93c9-4fb1-b01e-2415daa715cd
