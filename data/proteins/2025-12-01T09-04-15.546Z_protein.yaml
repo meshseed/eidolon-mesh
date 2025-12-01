@@ -1,0 +1,48 @@
+id: f1e227e1-a5b4-48d1-a8f6-701f1abe1fcc
+title: 'Eidolon Mesh: Digital Organism for Knowledge Synthesis'
+summary: >-
+  Eidolon Mesh is a digital organism designed to ingest conversations,
+  synthesize knowledge into "proteins," and build a semantic connectome for
+  intelligent query responses. It features a modular architecture (Membrane,
+  Ribosome, Connectome, Query Organelle, Dashboard), command-line utilities for
+  ingestion and querying, and a web interface. Key features include conversation
+  memory, diverse query optimization strategies, and detailed performance
+  metrics. It's a TypeScript project with a stable, working configuration for
+  knowledge processing and retrieval.
+insights:
+  - >-
+    Eidolon Mesh is a digital organism that processes conversations into
+    structured knowledge ('proteins') and constructs a semantic connectome for
+    intelligent query responses.
+  - >-
+    Its architecture is modular, consisting of distinct components: Membrane
+    (I/O), Ribosome (synthesis), Connectome (semantic network), Query Organelle
+    (response generation), and Dashboard (visualization).
+  - >-
+    The system supports command-line interaction for ingesting dialogues and
+    querying the knowledge base, complemented by a web dashboard for
+    visualization and interaction.
+  - >-
+    Key features include configurable conversation memory, multiple query
+    optimization strategies (e.g., Balanced, Max Coherence, Max Connectivity,
+    Diverse Hubs), and performance metrics like query duration and coverage.
+  - >-
+    Data storage is organized with separate directories for original dialogues
+    (DNA), synthesized knowledge proteins, and the semantic network structure
+    (`connectome.json`).
+  - >-
+    The project is developed using TypeScript and has reached a stable state,
+    incorporating full content loading, connectome caching, strategy controls,
+    performance logging, and conversation memory.
+tags:
+  - '#public'
+  - '#EidolonMesh'
+  - '#KnowledgeSynthesis'
+  - '#SemanticNetwork'
+  - '#AIArchitecture'
+  - '#DigitalOrganism'
+  - '#TypeScript'
+  - '#DataProcessing'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-01T09:04:15.286Z'
+source_dialogue_id: b977c598-7bd6-4a06-8193-9b152a313716
