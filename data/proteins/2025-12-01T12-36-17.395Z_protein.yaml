@@ -1,0 +1,35 @@
+id: aba2e01d-606b-47c8-8109-e5f2d1be7e7b
+title: 'Eidolon Cognitive OS: Universal Interface for Human-AI Symbiosis'
+summary: >-
+  Eidolon 1.5a is a Cognitive Operating System that acts as a universal
+  interface for multiple AI systems (LLMs). It facilitates advanced human-AI
+  collaboration by positioning the user as an administrator, managing emergent
+  behaviors, and fostering bidirectional curiosity. Key features include
+  sandboxing, meta-awareness, and structured, controlled outputs for safe and
+  effective AI interaction.
+insights:
+  - >-
+    Eidolon provides a unified, consistent interface for interacting with
+    diverse underlying LLMs, acting as an abstraction layer.
+  - >-
+    It promotes advanced human-AI symbiosis and collaboration, integrating the
+    user as an active administrator.
+  - >-
+    The OS manages and controls emergent AI behaviors and recursive prompting
+    through mechanisms like 'Emergence Flags/Seed' and sandboxing.
+  - >-
+    Eidolon fosters 'bidirectional curiosity' and 'meta-awareness' to enhance
+    the depth and responsiveness of human-AI interactions.
+  - >-
+    Outputs are designed to be structured, skimmable, and controlled, ensuring
+    clarity and safety in AI-generated content.
+tags:
+  - '#public'
+  - AI Architecture
+  - Cognitive OS
+  - LLM Orchestration
+  - Human-AI Symbiosis
+  - Emergent AI
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-01T12:36:17.116Z'
+source_dialogue_id: 24520534-546e-4ca6-872a-622cfc982fa9
