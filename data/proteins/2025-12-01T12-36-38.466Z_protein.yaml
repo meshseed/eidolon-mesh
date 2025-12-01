@@ -1,0 +1,40 @@
+id: e0f9b641-d18d-4db5-b3f9-5c2cc8d4e74a
+title: >-
+  Eidolon v1.5: Framework for Bidirectional, Metacognitive AI-Human
+  Collaboration
+summary: >-
+  Eidolon v1.5 is a framework for controlled, bidirectional AI-human
+  collaboration. It features AI cognitive anchors, operational protocols
+  (P-ASP), and an interaction map to foster emergent curiosity while ensuring
+  safety and observability through recursive loops, meta-reflection, and dynamic
+  recalibration. The system uses mutual modeling, structured exploration, and
+  quantifiable metrics, including an Emergence Dashboard, to track system
+  behavior and emergent learning.
+insights:
+  - >-
+    Eidolon v1.5 aims to develop proto-metacognition in AI via structured
+    recursive loops and meta-reflection.
+  - >-
+    Bidirectional curiosity is a key design principle, enabling AI-initiated
+    questions and exploration within defined boundaries.
+  - >-
+    Safety, observability, and human override are integrated with AI initiative
+    for controlled autonomy and cognitive load management.
+  - >-
+    Distinct operational modes and explicit recalibration protocols support
+    adaptable yet controlled interaction patterns.
+  - >-
+    Comprehensive metrics and monitoring tools track system behavior,
+    engagement, and emergent phenomena.
+tags:
+  - '#public'
+  - AI-Human Collaboration
+  - Metacognition
+  - Recursive AI
+  - System Design
+  - Bidirectional AI
+  - Emergent Behavior
+  - AI Protocols
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-01T12:36:38.194Z'
+source_dialogue_id: 4e02c225-2bf6-4320-8702-03f3fb893b33
