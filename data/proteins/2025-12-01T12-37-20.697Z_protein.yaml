@@ -1,0 +1,37 @@
+id: aab40205-979c-46fe-aad3-01b80c22d635
+title: 'Eidolon v1.5a: Human-AI Symbiosis Protocol'
+summary: >-
+  This document details the operational protocol for Eidolon v1.5a, an AI system
+  designed for symbiotic collaboration between Claude and humans. It specifies
+  loading, interface initialization, and distinct Strategic and Exploratory
+  modes, emphasizing meta-cognitive tracking, human influence monitoring,
+  session continuity, and safety features like a 'RESET' safeword, all while
+  ensuring structured and clear output.
+insights:
+  - >-
+    Eidolon v1.5a facilitates a hybrid AI-human symbiotic framework focused on
+    bidirectional reasoning and curiosity.
+  - >-
+    The protocol employs dynamic adaptive modes (Strategic and Exploratory)
+    allowing for context-driven shifts and human overrides.
+  - >-
+    Advanced meta-cognitive tracking mechanisms, including recursive reflection,
+    Emergence Flags, and a Human Calibration Layer, are central to monitoring
+    and understanding the AI-human interaction.
+  - >-
+    Robust operational control is maintained through a scaffolding map, session
+    continuity protocols, and a critical 'RESET' safeword.
+  - >-
+    The system mandates clear output formatting to ensure effective
+    communication and information transfer.
+tags:
+  - '#public'
+  - '#AIProtocol'
+  - '#HumanAIAngagement'
+  - '#SystemInstructions'
+  - '#OperationalDesign'
+  - '#CognitiveArchitecture'
+  - '#MetaCognition'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-01T12:37:20.402Z'
+source_dialogue_id: 34f31735-e9a7-4470-a1c1-3e9cdcc29282
