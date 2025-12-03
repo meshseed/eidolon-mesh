@@ -1,0 +1,28 @@
+id: 806a242c-9fb1-4a7f-a66e-2c88345a80b7
+title: Einstein's Derivation of Mass-Energy Equivalence
+summary: >-
+  This document presents Albert Einstein's 1905 paper, "Does the Inertia of a
+  Body Depend Upon its Energy-Content?"  The paper derives the fundamental
+  relationship between mass and energy. By considering the emission of light
+  from a stationary body and applying the principle of relativity and energy
+  conservation across different inertial frames, Einstein shows that a loss of
+  energy L from a body results in a decrease in its mass by L/c², thereby
+  establishing that mass is a measure of a body's energy content.
+insights:
+  - The inertia (mass) of a body is directly proportional to its energy content.
+  - >-
+    When a body emits energy L in the form of radiation, its mass diminishes by
+    L/c².
+  - Mass and energy are fundamentally equivalent and interchangeable.
+  - >-
+    This principle has implications for understanding radiation and its role in
+    conveying inertia.
+tags:
+  - '#public'
+  - '#physics'
+  - '#relativity'
+  - '#einstein'
+  - '#mass-energy equivalence'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-03T08:45:31.844Z'
+source_dialogue_id: 5080ef28-bd81-4df0-aebf-d16043c790e4
