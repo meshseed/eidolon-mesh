@@ -1,0 +1,31 @@
+id: eb525a07-2938-4915-b6da-72f7869e321f
+title: Eidolon Mesh Development & Public Launch
+summary: >-
+  This dialogue covers the finalization of Phase 17 (Public Portal) for the
+  Eidolon Mesh project, including the creation of community and contribution
+  guides. It also details the plan for Phase 14 (Two-Tier Architecture) to
+  optimize loading times by differentiating core vs. extended neuron loading and
+  using ghost nodes. Finally, it clarifies that the project is runnable with
+  standard Node.js commands and does not require the 'Antigravity' environment
+  for execution, making it accessible for public deployment.
+insights:
+  - >-
+    Phase 17 deliverables (Invitation Portal, COMMUNITY.md, CONTRIBUTING.md) are
+    complete, preparing Eidolon Mesh for public access.
+  - >-
+    Phase 14, the Two-Tier Architecture, aims to improve performance by loading
+    core neurons initially and the rest lazily, with ghost nodes visualizing
+    unloaded connections.
+  - >-
+    The Eidolon Mesh project is fully standalone and runnable using standard
+    Node.js tools (npm install, npm run dashboard), without requiring the
+    'Antigravity' development environment.
+tags:
+  - '#public'
+  - '#development'
+  - '#architecture'
+  - '#deployment'
+  - '#performance'
+coherence_score: 0.97
+synthesis_timestamp: '2025-12-03T12:25:47.863Z'
+source_dialogue_id: d010c2cd-1b1e-44a9-9821-bae92d224ffa
