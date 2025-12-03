@@ -1,0 +1,40 @@
+id: ad7c9eec-2d0a-4c21-9fae-041bf354ca51
+title: 'Debugging THE MESH: Synthesis Input and Performance Bottlenecks'
+summary: >-
+  This conversation details the debugging of THE MESH's performance and response
+  quality. Key issues identified include inaccurate UI timers, a critical bug
+  where the synthesis module doesn't receive full protein content (leading to
+  speculative answers), and significant performance bottlenecks in initial
+  loading. The fix involves ensuring full content is passed to synthesis and
+  optimizing the timing instrumentation and caching mechanisms.
+insights:
+  - >-
+    UI timers are misleading, reporting only synthesis time and ignoring
+    significant hidden loading and processing delays.
+  - >-
+    A critical bug prevents the synthesis module from receiving the full content
+    of retrieved neurons, forcing speculative answers and indicating a pipeline
+    disconnect between retrieval and synthesis.
+  - >-
+    Performance is significantly impacted by initial connectome loading
+    (~20-30s) and the synthesis process (~10s), with search being negligibly
+    fast.
+  - >-
+    The 'Balanced' strategy for passing context to synthesis only provides
+    summaries, while 'Max-Coherence' correctly passes full content, leading to a
+    dramatic difference in answer quality and accuracy.
+  - >-
+    Fixing the synthesis input bug by ensuring full protein content is passed
+    will dramatically improve response quality and accuracy, allowing THE MESH
+    to cite actual definitions instead of speculating.
+tags:
+  - '#public'
+  - '#debugging'
+  - '#performance'
+  - '#ai'
+  - '#llm'
+  - '#optimization'
+  - '#pipeline'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-03T06:57:10.607Z'
+source_dialogue_id: c4528707-93ce-46bf-bfc6-ebaa4ba00039
