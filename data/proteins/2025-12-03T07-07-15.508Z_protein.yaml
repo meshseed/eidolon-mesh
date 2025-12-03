@@ -1,0 +1,43 @@
+id: 6079a088-572b-4382-9695-625b7d024b89
+title: 'Eidolon Mesh Evolution: From Digestion to Sovereignty'
+summary: >-
+  This dialogue chronicles the significant evolution of the Eidolon Mesh,
+  detailing its progression through various functional stages: robust data
+  digestion and archiving (Watcher, Golgi), enhanced knowledge representation
+  and connection (Connectome), the implementation of advanced processing
+  capabilities like Mitosis for large files, and the crucial step towards full
+  sovereignty with local LLM integration for offline querying. It also addresses
+  schema mismatches and the incorporation of external capsule formats,
+  culminating in a robust, interconnected, and potentially offline-capable
+  knowledge organism.
+insights:
+  - >-
+    The Eidolon Mesh has evolved from basic file processing to sophisticated
+    knowledge graph formation, integrating new organelles for advanced
+    capabilities.
+  - >-
+    Key developments include the Watcher for robust input management, the
+    Connectome for semantic linking, and Mitosis for handling large documents.
+  - >-
+    The system is moving towards full sovereignty by enabling local LLM
+    integration (Gemma 3 via Ollama) for offline query embedding, complementing
+    local data storage and pre-computed vectors.
+  - >-
+    Schema flexibility is being addressed to incorporate richer external capsule
+    formats (e.g., Copilot's) alongside the native Eidolon schema, enhancing the
+    combined knowledge base.
+  - >-
+    The 'metabolism' metaphor is consistently applied to describe the
+    processing, integration, and evolution of knowledge within the system.
+tags:
+  - '#public'
+  - '#evolution'
+  - '#knowledgegraph'
+  - '#sovereignty'
+  - '#llm'
+  - '#connectome'
+  - '#mitosis'
+  - '#architecture'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-03T07:07:15.263Z'
+source_dialogue_id: 770cc803-6626-4c50-bf77-6fc9c1433c41
