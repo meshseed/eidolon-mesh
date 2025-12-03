@@ -1,0 +1,32 @@
+id: 2ff0bd18-0dfa-47d1-95ff-5415a17768f5
+title: Cognitive Transitions as Universal Bifurcation Dynamics
+summary: >-
+  This document proposes that abrupt transitions in cognitive systems (like
+  insights, reframing, or collapse) are not random but follow universal
+  bifurcation dynamics, mirroring those found in nonlinear systems. It
+  hypothesizes that reflexively coherent systems under epistemic tension will
+  exhibit phase transitions whose interval ratios converge towards Feigenbaum's
+  constants, suggesting a universal structural behavior in cognition. The work
+  includes theoretical formulation, experimental protocols, and implications for
+  psychology, AI, and systems theory.
+insights:
+  - >-
+    Cognitive shifts (insight, collapse, reframing) can be explained by
+    universal bifurcation dynamics from nonlinear systems.
+  - >-
+    Reflexively coherent cognitive systems under 'epistemic tension' exhibit
+    phase transitions predictable by Feigenbaum's constants.
+  - >-
+    This framework offers a theoretical and experimental basis for understanding
+    cognitive transitions across psychology, AI, and systems theory.
+tags:
+  - '#public'
+  - '#cognition'
+  - '#bifurcationtheory'
+  - '#feigenbaumconstants'
+  - '#systems_theory'
+  - '#ai'
+  - '#psychology'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-03T08:45:21.807Z'
+source_dialogue_id: efbe2a5b-ad26-4b69-9ab9-eb33543f2dfa
