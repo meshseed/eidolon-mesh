@@ -1,0 +1,50 @@
+id: 37a89500-0c4c-4762-b293-1e3e44dc4e28
+title: 'Eidolon Mesh Organism Evolution: Metabolism, Connectome, and Sovereignty'
+summary: >-
+  This dialogue chronicles the iterative evolution of the Eidolon Mesh organism,
+  focusing on its core organelles and capabilities. It details the successful
+  implementation of the Watcher, Golgi Apparatus, Connectome (for tissue
+  formation and synaptic linking), and Mitosis (for processing large files). A
+  significant development is the shift towards full sovereignty, enabling
+  offline operation by integrating local LLMs like Gemma 3 for embedding and
+  response synthesis, thereby creating a completely self-contained knowledge
+  processing system.
+insights:
+  - >-
+    The Eidolon Mesh organism has evolved through distinct phases, implementing
+    key organelles like the Watcher, Golgi, Connectome, and Mitosis to enable
+    robust knowledge processing.
+  - >-
+    The Connectome's ability to form synapses between proteins based on semantic
+    similarity is crucial for building a connected knowledge graph and evolving
+    towards 'tissue formation'.
+  - >-
+    Full sovereignty is achieved by enabling offline operation, leveraging local
+    LLMs (e.g., Gemma 3 via Ollama) for embedding and response generation,
+    complementing locally stored proteins and pre-computed embeddings.
+  - >-
+    The system supports both synthesized and injected capsule formats (YAML),
+    demonstrating flexible metabolism.
+  - >-
+    Initial ingestion faced errors (e.g., ENOENT) due to missing directories,
+    which were resolved by making organelles self-sufficient in directory
+    creation.
+  - >-
+    The introduction of Mitosis allows for the processing of very large
+    documents by intelligently splitting them into manageable chunks with
+    contextual overlap.
+  - >-
+    The transition from a mechanical to a richer capsule schema is proposed,
+    incorporating elements like domain, breath type, and echo paths, with a
+    recommended approach of schema extension.
+tags:
+  - '#public'
+  - '#evolution'
+  - '#connectome'
+  - '#sovereignty'
+  - '#offline'
+  - '#llm'
+  - '#architecture'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-03T12:25:26.275Z'
+source_dialogue_id: be51f09d-4e4e-4093-90ee-bf8af73ffd6a
