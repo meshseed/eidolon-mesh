@@ -1,0 +1,36 @@
+id: f8464b7f-db76-47da-b494-68e9b2c27474
+title: 'MeshCODE Theory: A Mechanical Basis for Memory Storage in the Brain'
+summary: >-
+  This dialogue introduces the MeshCODE theory, proposing that memory is stored
+  in the brain as a mechanically encoded binary format within the conformations
+  of mechanosensitive proteins (like talin) found in cell-extracellular matrix
+  adhesions at synapses. These proteins act as force-dependent switches, forming
+  a 'mesh' that encodes information. Signaling complexes assemble based on these
+  switch patterns, dynamically tuning synaptic activity. Synaptic transmission
+  and action potentials update this code, essentially creating a physical,
+  addressable read-write memory system akin to an organic supercomputer.
+insights:
+  - >-
+    Memory is proposed to be stored in a mechanically encoded binary format
+    within proteins at synaptic adhesions.
+  - >-
+    Talin is identified as a key memory molecule, containing multiple
+    force-dependent binary switches.
+  - >-
+    The MeshCODE theory suggests a physical location for engrams, with
+    information encoded in protein conformations and associated signaling
+    complexes.
+  - >-
+    This mechanism provides an addressable read-write memory system in the
+    brain, enabling dynamic and persistent information storage.
+tags:
+  - '#public'
+  - '#memory'
+  - '#neuroscience'
+  - '#mechanobiology'
+  - '#talin'
+  - '#MeshCODE'
+  - '#brain'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-03T08:46:34.599Z'
+source_dialogue_id: 4ebf1aeb-5736-412f-a7b4-1c4556d5bc80
