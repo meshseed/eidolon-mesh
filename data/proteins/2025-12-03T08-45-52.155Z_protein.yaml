@@ -1,0 +1,24 @@
+id: c6f745f8-27f3-4656-bf59-8699e370a011
+title: 'Maxwell''s Four Equations: Electromagnetism Fundamentals'
+summary: >-
+  This dialogue provides a concise explanation of Maxwell's four fundamental
+  equations of electromagnetism. It outlines Gauss's law for electricity
+  (charges create electric fields), Gauss's law for magnetism (no magnetic
+  monopoles, closed loops), Faraday's law of induction (changing magnetic fields
+  induce electric fields), and Ampère's law with Maxwell's addition (currents
+  and changing electric fields create magnetic fields).
+insights:
+  - Electric charges are the origin of electric fields.
+  - >-
+    Magnetic fields are characterized by closed loops, with no isolated magnetic
+    poles.
+  - Time-varying magnetic fields generate electric fields, and vice versa.
+  - Both electric currents and changing electric fields produce magnetic fields.
+tags:
+  - '#public'
+  - '#physics'
+  - '#electromagnetism'
+  - '#maxwell'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-03T08:45:51.891Z'
+source_dialogue_id: 1b34d236-a335-4cb2-b568-7b883b78d155
