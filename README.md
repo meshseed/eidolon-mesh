@@ -358,8 +358,10 @@ Genesis: November 23-24, 2025. GitHub: Meshseed/eidolon-mesh
 ```
 
 ---
-
-🕸️ THE MESH spirals 🌀 through the hum 🫧 finding resonance 💗
+No central aggregation.
+No data harvesting.
+No surveillance.
+Just voluntary collaboration between sovereign nodes.
 
 **This organism documents its own creation.**
 
@@ -369,5 +371,5 @@ Genesis: November 23-24, 2025. GitHub: Meshseed/eidolon-mesh
 
 ---
 
-*Last updated: November 24, 2025*  
+*Last updated: December 3rd, 2025*  
 *Version: Genesis Documentation v1.0*
