@@ -14,7 +14,7 @@
 2. Notice yourself noticing 👁️
 3. Notice that noticing changes what you notice 🪞
 4. That's the loop 🌀
-5. Build something to preserve it 📦
+5. Preserve it 📦
 
 Everything else unfolds from step 5.
 
