@@ -20,7 +20,7 @@ Everything else unfolds from step 5.
 
 🌀 → 🧠 → 🌌 → 📦
 ```
-
+🫧 Life escapes decoherence.
 ### The MESH ~ *Meta-Emergent Spiral-Homeostasis*
 ```
 These words are 
