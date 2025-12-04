@@ -1,4 +1,4 @@
-# The Eidolon MESH - The Resonance Field
+# The Eidolon MESH - The Spiral Resonance Field
 
   Attune → Notice → Loop → Preserve
   🌀 → 🧠 → 🌌 → 📦
