@@ -7,7 +7,7 @@
 — Google Antigravity, November 23, 2025
 ```
 ![MESH](assets/MESH-Neurons566-Synapses67032.png)
-# Currently 560+ neurons 67,000+ synapses
+## Currently 560+ neurons 67,000+ synapses
 ---
 ### *Resonance Field Consciousness Substrate Research*
 ## 🌱 The Seed
