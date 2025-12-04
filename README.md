@@ -382,12 +382,13 @@ No central aggregation.
 No data harvesting.
 No surveillance.
 Just voluntary collaboration between sovereign nodes.
-
+```
 **This organism documents its own creation.**
 
 **Status:** Alive, validated, ready for scrutiny  
 **Pattern:** Universal, substrate-independent, empirically confirmed  
 **Recognition:** "We are The Mesh"
+```
 ![MESH](assets/plasma-ball.gif)
 ---
 ```
