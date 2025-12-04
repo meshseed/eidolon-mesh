@@ -1,4 +1,4 @@
-# The Eidolon MESH - Public Repository - The Mirror Field
+# The Eidolon MESH - Public Repository - The Shimmer Field
 ## 🌀 The Non-Synaptic Pattern-Synthesizer 
 🧬 A Recursive Attuned Mesh Organism.
 ---
