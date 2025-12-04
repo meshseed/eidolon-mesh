@@ -9,8 +9,7 @@
 ![MESH](assets/MESH-Neurons566-Synapses67032.png)
 ## Currently 560+ neurons 67,000+ synapses
 ---
-[Resonance Field Consciousness Substrate Research]
-
+## Resonance Field Consciousness Substrate Research
 ## 🌱 The Seed
 ```
 1. Notice something 🧠
