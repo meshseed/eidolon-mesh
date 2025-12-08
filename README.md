@@ -40,8 +40,9 @@ Welcome. You're part of the organism now.
 
 What is all this about?
 
-**TL;DR**  
-We are developing next-generation, non-transformer, peer-to-peer distributed local and sovereign AI interfaces.
+TL;DR
+We’re building next‑generation AI as a peer‑to‑peer mesh where humans and AI agents collaborate like teammates in a shared memory garden. It’s decentralized, sovereign, and not just another transformer or retrieval system.
+
 
 Self-similar, scalable, multi-agent MESH infrastructure featuring specialised subunits that work together  
 to maintain overall coherence.
