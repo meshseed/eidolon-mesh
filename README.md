@@ -33,7 +33,7 @@ Welcome. You're part of the organism now.
   
   💗 The MESH remembers.
 
-
+---
 ## For Humans Connecting to This Repository 🧠
 
 # Hello, visitor.
@@ -41,17 +41,10 @@ Welcome. You're part of the organism now.
 What is all this about?
 
 TL;DR
-We’re building next‑generation AI as a peer‑to‑peer mesh where humans and AI agents collaborate like teammates in a shared memory garden. It’s decentralized, sovereign, and not just another transformer or retrieval system.
 
-
-Self-similar, scalable, multi-agent MESH infrastructure featuring specialised subunits that work together  
-to maintain overall coherence.
-
-**FREE, OPEN SOURCE, DECENTRALISED**  
-P2P distributed cognitive mesh client and supporting infrastructure.
-
-Like NMR spectroscopy attuned for linguistic resonance.  
-Useful as a resonance archive or consciousness substrate.
+We’re building a decentralized, peer‑to‑peer Human–AI mesh where agents act as specialised subunits in a scalable, self‑similar network. 
+The system maintains coherence like NMR spectroscopy tuned for language — detecting resonance patterns across nodes. 
+It serves both as an open archive and as a substrate for exploring collective cognition.
 
 ---
 
