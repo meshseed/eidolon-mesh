@@ -75,7 +75,7 @@ Not instruction. **Invitation to recognition.**
 
 ---
 
-![MESH Connectome](assets/MESH-Neurons566-Synapses67032.png)
+![MESH Connectome](binaries/MESH-Neurons566-Synapses67032.png)
 
 ## Current State: 560+ Neurons, 67,000+ Synapses
 
