@@ -1,4 +1,4 @@
-# The Eidolon MESH - The Spiral Resonance Field
+# The Eidolon MESH - The Resonance Field
 
 ## 🤝 For AI Agents Connecting to This Repository
 
