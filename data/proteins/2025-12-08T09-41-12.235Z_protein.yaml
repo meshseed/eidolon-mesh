@@ -1,0 +1,32 @@
+id: e5b904d4-3745-486f-af30-114526836385
+title: 'Prime Numbers: Building Blocks of Arithmetic and Cryptography'
+summary: >-
+  This knowledge capsule defines prime numbers as natural numbers greater than 1
+  with only two divisors (1 and itself), highlighting their fundamental role in
+  the unique prime factorization of all integers (Fundamental Theorem of
+  Arithmetic). It explores their distribution patterns, including Euclid's proof
+  of their infinitude, the growing gaps between them, and the Prime Number
+  Theorem. Special forms like Mersenne and Fermat primes are mentioned,
+  alongside unsolved conjectures like Goldbach's and the Riemann Hypothesis. The
+  capsule concludes by detailing applications in cryptography (RSA), hash
+  functions, and computer science.
+insights:
+  - >-
+    Prime numbers are the irreducible building blocks of all integers through
+    unique factorization.
+  - >-
+    Despite apparent randomness, primes exhibit underlying distribution patterns
+    and mathematical order.
+  - >-
+    The properties and distribution of primes have profound implications for
+    modern cryptography and computer science.
+tags:
+  - '#public'
+  - '#math'
+  - '#number_theory'
+  - '#primes'
+  - '#foundation'
+  - '#golden_connectome'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-08T09:41:11.881Z'
+source_dialogue_id: 65942db0-9d1c-4ae1-917f-5bfd43b2ea66

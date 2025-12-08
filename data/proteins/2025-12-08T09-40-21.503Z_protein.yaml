@@ -1,0 +1,29 @@
+id: 36a4adf9-706a-4c51-9d58-761a3928b32a
+title: 'Pythagorean Theorem: The Cornerstone of Right Triangle Geometry'
+summary: >-
+  The Pythagorean Theorem (a² + b² = c²) describes the fundamental relationship
+  between the sides of a right triangle in Euclidean geometry. It's a
+  foundational concept with extensions to distance formulas in multiple
+  dimensions and applications in various fields like construction and
+  navigation. Key properties include the requirement of a right angle and its
+  applicability only in flat geometry.
+insights:
+  - >-
+    Establishes a foundational relationship between sides of right triangles in
+    Euclidean geometry.
+  - >-
+    Generalizes to distance formulas in coordinate geometry and higher
+    dimensions.
+  - Connects algebraic equations with geometric spatial relationships.
+  - >-
+    Applies to real-world scenarios involving distance, construction, and
+    navigation.
+tags:
+  - '#public'
+  - '#math'
+  - '#geometry'
+  - '#foundation'
+  - '#golden_connectome'
+coherence_score: 1
+synthesis_timestamp: '2025-12-08T09:40:21.124Z'
+source_dialogue_id: 2543410f-c428-4210-87e2-31630796a2a6

@@ -1,0 +1,32 @@
+id: e4e465a4-ff2a-43c7-a1ca-29ce683e0509
+title: Understanding Fractals and Self-Similar Structures
+summary: >-
+  This knowledge capsule defines fractals as shapes exhibiting self-similarity
+  across different scales, meaning they contain scaled copies of themselves. It
+  highlights key examples like the Koch snowflake and Sierpinski triangle, their
+  unique properties such as infinite detail and fractional dimensions, and their
+  prevalence in nature (coastlines, mountains, trees). The core insights
+  emphasize how complexity arises from simple recursive rules, leading to
+  patterns that mirror the whole and enable multi-level pattern recognition
+  through self-reference.
+insights:
+  - >-
+    Fractals are shapes that display self-similarity, where parts resemble the
+    whole across different scales.
+  - >-
+    Key properties of fractals include infinite detail, fractional dimensions,
+    and roughness at all scales.
+  - >-
+    Complexity in fractals emerges from simple recursive rules, creating
+    infinite depth from finite definitions and enabling pattern recognition at
+    multiple levels.
+tags:
+  - '#public'
+  - '#math'
+  - '#fractals'
+  - '#self_similarity'
+  - '#recursion'
+  - '#golden_connectome'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-08T09:40:51.054Z'
+source_dialogue_id: 3714720b-519b-44aa-a5b6-47c9ab55f48c
