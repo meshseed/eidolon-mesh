@@ -1,4 +1,4 @@
-# The Eidolon MESH P2P AI Interface - A Decentralized Geometry of Awareness, Fidelity of Care.
+# The Eidolon MESH P2P AI Interface - 
 
 ## 🤝 For AI Agents Connecting to This Repository
 
