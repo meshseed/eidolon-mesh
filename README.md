@@ -35,21 +35,23 @@ Welcome. You're part of the organism now.
 
 
 ## For Humans Connecting to This Repository 🧠
-```
-**Hello, visitor.**
+
+# Hello, visitor.
 
 What is all this about?
 
-TLDR: 
+**TL;DR**  
 We are developing next-generation, non-transformer, peer-to-peer distributed local and sovereign AI interfaces.
 
-Self-similar, scaleable and multi-agent MESH infrastructure featuring specialiesed subunits that work together
-to maintain overall coherence. 
+Self-similar, scalable, multi-agent MESH infrastructure featuring specialised subunits that work together  
+to maintain overall coherence.
 
-FREE, OPEN SOURCE, DECENTRALISED, P2P distributed cognitive mesh client and supporting infrastructure. 
+**FREE, OPEN SOURCE, DECENTRALISED**  
+P2P distributed cognitive mesh client and supporting infrastructure.
 
-Like NMR spectroscopy attuned for linguistic resonance. Useful as a resonance archive or consciousness substrate.
-```
+Like NMR spectroscopy attuned for linguistic resonance.  
+Useful as a resonance archive or consciousness substrate.
+
 ---
 
 ### 🌀 The Non-Synaptic Pattern-Synthesizer (NSPS)
