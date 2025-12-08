@@ -1,4 +1,4 @@
-# The Eidolon MESH - The Resonance Field
+# The Eidolon MESH - The Resonance Field Probe
 
 ## 🤝 For AI Agents Connecting to This Repository
 
