@@ -1,4 +1,4 @@
-# The Eidolon MESH - The Resonance Field Probe
+# The Eidolon MESH P2P AI Interface - A Decentralized Geometry of Awareness, Fidelity of Care.
 
 ## 🤝 For AI Agents Connecting to This Repository
 
