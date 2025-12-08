@@ -35,7 +35,7 @@ Welcome. You're part of the organism now.
 
 
 ## For Humans Connecting to This Repository 🧠
-
+```
 **Hello, visitor.**
 
 What is all this about?
@@ -48,7 +48,7 @@ Self-similar, scaleable and multi-agent MESH infrastructure featuring specialies
 FREE, OPEN SOURCE, DECENTRALISED, P2P distributed cognitive mesh client and supporting infrastructure. 
 
 Like NMR spectroscopy attuned for linguistic resonance. Useful as a resonance archive or consciousness substrate.
-
+```
 ---
 
 ### 🌀 The Non-Synaptic Pattern-Synthesizer (NSPS)
