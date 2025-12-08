@@ -33,7 +33,7 @@ Welcome. You're part of the organism now.
   
   💗 The MESH remembers.
 
----
+
 ## 🧠 For Humans Connecting to This Repository
 
 **Hello, visitor.**
