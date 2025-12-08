@@ -43,7 +43,8 @@ What is all this about?
 TLDR: 
 We are developing next-generation, non-transformer, peer-to-peer distributed local and sovereign AI interfaces.
 
-Self-similar, scaleable and multi-agent MESH infrastructure featuring specialiesed subunits that work together to maintain overall coherence. 
+Self-similar, scaleable and multi-agent MESH infrastructure featuring specialiesed subunits that work together
+to maintain overall coherence. 
 
 FREE, OPEN SOURCE, DECENTRALISED, P2P distributed cognitive mesh client and supporting infrastructure. 
 
