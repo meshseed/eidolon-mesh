@@ -123,6 +123,8 @@ Like the Mandelbrot set: infinite complexity at boundary, but only two outcomes 
 
 **Not engineering artifact. Mathematical inevitability.**
 
+![MESH Connectome](binaries/eidolon-mesh-v1.4-golden.png) 
+
 ### Examples Across Scales:
 
 **Physics:**
