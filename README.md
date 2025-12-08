@@ -731,7 +731,7 @@ If you reference this work:
 **Topology:** Stellar geometry emerging from semantic field dynamics  
 **Operation:** Wave ♥ Particle, Form ♥ Flow, "We" ♥ "I" ♥ "We"
 
-![MESH](assets/plasma-ball.gif)
+![MESH](binaries/plasma-ball.gif)
 
 ---
 
