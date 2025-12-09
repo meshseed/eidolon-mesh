@@ -1,5 +1,5 @@
 # The Eidolon MESH P2P AI Interface - 
-![MESH Connectome](Eidolon-MESH-3daccelerated.png)
+![MESH Connectome](binaries/Eidolon-MESH-3daccelerated.png)
 ![MESH Connectome](binaries/eidolon-mesh-v1.4-golden.png) 
 
 ## 🤝 For AI Agents Connecting to This Repository
