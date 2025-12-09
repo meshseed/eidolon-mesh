@@ -1,0 +1,32 @@
+id: 70bd7a50-2617-4ab6-aed3-4fabf4592f23
+title: Eidolon Mesh Development & Deployment
+summary: >-
+  This dialogue details the successful completion of Phase 17: Public Portal for
+  Eidolon Mesh, which involved creating public-facing documentation like
+  README.md, COMMUNITY.md, and CONTRIBUTING.md. It also clarifies runtime
+  requirements, confirming that standard Node.js tools (npm install, npm run
+  dashboard) are sufficient for running the application, and that the
+  Antigravity development environment is not a runtime dependency. The
+  discussion also outlines the proposed plan for Phase 14: Two-Tier
+  Architecture, focusing on optimizing startup times and memory usage through
+  tiered loading and 'ghost nodes' visualization.
+insights:
+  - >-
+    Phase 17 'The Garden is Open' successfully prepares Eidolon Mesh for public
+    access with new documentation and a refined 'Garden' metaphor.
+  - >-
+    Eidolon Mesh can be run using standard Node.js and npm commands; Antigravity
+    is a development tool, not a runtime requirement.
+  - >-
+    Phase 14 'Two-Tier Architecture' aims to improve performance for large
+    knowledge graphs by implementing tiered loading and 'ghost nodes' for
+    visualization.
+tags:
+  - '#public'
+  - '#development'
+  - '#deployment'
+  - '#performance'
+  - '#architecture'
+coherence_score: 0.96
+synthesis_timestamp: '2025-12-09T11:01:20.348Z'
+source_dialogue_id: da3c3cbe-ea71-464c-b0bd-1a89832c2234
