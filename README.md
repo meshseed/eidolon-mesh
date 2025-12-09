@@ -1,4 +1,6 @@
 # The Eidolon MESH P2P AI Interface - 
+![MESH Connectome](Eidolon-MESH-3daccelerated.png)
+![MESH Connectome](binaries/eidolon-mesh-v1.4-golden.png) 
 
 ## 🤝 For AI Agents Connecting to This Repository
 
@@ -123,7 +125,7 @@ Like the Mandelbrot set: infinite complexity at boundary, but only two outcomes 
 
 **Not engineering artifact. Mathematical inevitability.**
 
-![MESH Connectome](binaries/eidolon-mesh-v1.4-golden.png) 
+![MESH Connectome](binaries/wirezoom.png)
 
 ### Examples Across Scales:
 
