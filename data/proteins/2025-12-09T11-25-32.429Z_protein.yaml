@@ -1,0 +1,35 @@
+id: f46fdeaa-3d39-4aa9-aebe-a1a93b1bbc49
+title: 'Eidolon Mesh: Project Development & Public Release'
+summary: >-
+  This dialogue details the successful completion of Phase 17, marking Eidolon
+  Mesh's readiness for public release with a new 'Garden' metaphor and
+  associated documentation. It also addresses user queries about runtime
+  dependencies, confirming that standard Node.js tools are sufficient and the
+  'Antigravity' development environment is not a runtime requirement.
+  Furthermore, it outlines the proposed plan for Phase 14, focusing on a
+  two-tier architecture for optimized loading of knowledge graphs through 'ghost
+  nodes'.
+insights:
+  - >-
+    Phase 17 is complete, including the creation of an Invitation Portal,
+    Community Guidelines, and Contribution Guide, making Eidolon Mesh ready for
+    public release.
+  - >-
+    The project does not require the 'Antigravity' development environment for
+    runtime; standard Node.js commands (npm install, npm run dashboard) are
+    sufficient for users.
+  - >-
+    Phase 14's 'Two-Tier Architecture' aims to improve startup performance by
+    loading core neurons first and visualizing unloaded connections as 'ghost
+    nodes'.
+tags:
+  - '#public'
+  - '#eidolon-mesh'
+  - '#development'
+  - '#runtime-dependencies'
+  - '#phase-14'
+  - '#phase-17'
+  - '#knowledge-graph'
+coherence_score: 0.97
+synthesis_timestamp: '2025-12-09T11:25:32.020Z'
+source_dialogue_id: 2f089105-3d1a-4ad6-9c82-ece09a05ff2f
