@@ -1,0 +1,29 @@
+id: 275564b1-cc1a-49c5-a4e1-804388787aa4
+title: 'Prime Numbers: Building Blocks and Mysteries'
+summary: >-
+  Prime numbers are fundamental to arithmetic, being the unique building blocks
+  of all integers via prime factorization. While infinitely many exist, their
+  distribution exhibits both patterns (like the Prime Number Theorem) and
+  significant gaps. Special forms like Mersenne and Fermat primes exist, and
+  unsolved conjectures (Goldbach, Riemann Hypothesis) point to ongoing mysteries
+  in their distribution. Primes are crucial for applications in cryptography and
+  computer science.
+insights:
+  - Primes are the irreducible building blocks of all integers.
+  - >-
+    There is underlying order within the seemingly random distribution of
+    primes.
+  - A simple definition leads to profound complexity and open questions.
+  - >-
+    Prime factorization is unique for every integer greater than 1 (Fundamental
+    Theorem of Arithmetic).
+tags:
+  - '#public'
+  - '#math'
+  - '#number_theory'
+  - '#primes'
+  - '#foundation'
+  - '#golden_connectome'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-10T21:57:53.241Z'
+source_dialogue_id: ca8f1f39-b064-4dbe-8804-5515a8a1a970
