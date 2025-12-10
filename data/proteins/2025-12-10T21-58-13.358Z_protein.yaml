@@ -1,0 +1,38 @@
+id: a8b5ee2a-ff08-4557-a390-503fb676fc8f
+title: Golden Connectome v1.4 Seed Templates
+summary: >-
+  This document details the 13 seed templates used to pre-populate the Golden
+  Connectome in v1.4 installations of THE MESH. These templates, divided into
+  Genesis Seeds and Math Foundation Seeds, provide the foundational knowledge
+  for new organisms and are used during the connectome generation process. They
+  are not active at runtime but offer transparency, reference, and customization
+  options for developers and users.
+insights:
+  - >-
+    The Golden Connectome in v1.4 is pre-seeded with 13 specific knowledge
+    templates (seeds) that form the organism's foundational understanding.
+  - >-
+    These seed templates are categorized into Genesis Seeds (focusing on origin
+    and consciousness) and Math Foundation Seeds (focusing on geometric and
+    structural principles).
+  - >-
+    The seed templates serve as reference documentation and are processed by a
+    script during development to generate proteins, embeddings, and the final
+    connectome.json file, which is then shipped with the installation.
+  - >-
+    While users do not interact directly with these seed files, they are
+    available for transparency, understanding foundational concepts, and
+    potential custom build modifications by developers.
+  - >-
+    A v1.4 installation immediately provides users with 12 neurons and 30
+    synapses derived from these seed templates.
+tags:
+  - '#public'
+  - '#mesh'
+  - '#connectome'
+  - '#seed_templates'
+  - '#knowledge_base'
+  - '#v1.4'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-10T21:58:12.968Z'
+source_dialogue_id: 1f0e13bc-123f-4230-b49b-3920b2d18a6f
