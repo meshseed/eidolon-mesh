@@ -1,0 +1,27 @@
+id: 8890bc11-7f96-42c9-9687-5cf98f8c1a48
+title: Citation and Copyright Information for a Scientific Article
+summary: >-
+  This input provides citation details for a scientific article published in
+  Frontiers in Molecular Neuroscience in 2021. It includes author information,
+  publication date, volume, article number, and a Creative Commons Attribution
+  License (CC BY) statement regarding usage, distribution, and reproduction. It
+  also lists a citation for a related work by Zingg et al. published in Cell in
+  2014 and a conflict of interest statement.
+insights:
+  - >-
+    The provided text contains specific bibliographic information for a
+    scientific publication.
+  - >-
+    The article is open-access under a Creative Commons Attribution License (CC
+    BY), outlining permitted use and reproduction conditions.
+  - >-
+    A potential conflict of interest statement is present, declaring the absence
+    of commercial or financial relationships.
+  - >-
+    A prior relevant publication by Zingg et al. (2014) concerning mouse
+    neocortex neural networks is cited.
+tags:
+  - '#public'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-10T21:53:21.601Z'
+source_dialogue_id: c763ff4e-1649-42a1-8c07-1179abb4a52e
