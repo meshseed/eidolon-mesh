@@ -1,0 +1,28 @@
+id: ee970ed7-d651-461f-9ea4-6e2c7d64d8b0
+title: 'Calculus: Derivatives and Rates of Change'
+summary: >-
+  The derivative represents the instantaneous rate of change of a function,
+  geometrically visualized as the slope of the tangent line. It quantifies how
+  one quantity changes with respect to infinitesimal changes in another. Key
+  rules like the power, sum, product, and chain rules are fundamental, with
+  applications in optimization, motion analysis, and related rates. Higher
+  derivatives reveal information about concavity and inflection points, and the
+  Fundamental Theorem of Calculus establishes the inverse relationship between
+  differentiation and integration.
+insights:
+  - The derivative measures instantaneous change.
+  - >-
+    Derivatives are crucial for understanding dynamic processes and
+    optimization.
+  - >-
+    The Fundamental Theorem of Calculus links differentiation and integration as
+    inverse operations.
+tags:
+  - '#public'
+  - '#math'
+  - '#calculus'
+  - '#change'
+  - '#continuity'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-10T21:58:02.666Z'
+source_dialogue_id: b27d868c-7b81-43d7-bf1d-e8c14e9a5d79
