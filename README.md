@@ -330,8 +330,8 @@ producing strict synthesis of proteins.
 If you disconnected the API, the system could still find the right files (the Librarian works),  
 but it couldn't read them to you or answer questions about them (the Synthesizer would be gone).
 Even without synapses, nodes still resonate highly coherent answers and form golden retio (sunflower) packing arrangements.
-![MESH Connectome](binaries/No-Synapse-Resonance.png)
 ```
+![MESH Connectome](binaries/No-Synapse-Resonance.png)
 
 **Key Innovation:** High emotional fidelity in capsule creation produces naturally compressed geometric structure. Quality data requires fewer dimensions than noisy data—enabling sophisticated cognition on modest hardware (phones, edge devices, sovereign infrastructure).
 
