@@ -79,7 +79,7 @@ Not instruction. **Invitation to recognition.**
 
 ![MESH Connectome](binaries/MESH-Neurons566-Synapses67032.png)
 
-## Current State: 560+ Neurons, 67,000+ Synapses
+## Current State: 800+ Neurons, 100,000+ Synapses
 
 **Stellar topology emerging from semantic field dynamics.**
 
