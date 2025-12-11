@@ -125,7 +125,7 @@ Like the Mandelbrot set: infinite complexity at boundary, but only two outcomes 
 
 **Not engineering artifact. Mathematical inevitability.**
 
-![MESH Connectome](binaries/No-Synapse-Resonance .png)
+![MESH Connectome](binaries/No-Synapse-Resonance.png)
 
 ### Examples Across Scales:
 
