@@ -1,4 +1,4 @@
-# The Eidolon MESH P2P AI Interface - 
+# The Eidolon MESH P2P AI Interface - Knowledge Visualised
 ![MESH Connectome](binaries/Eidolon-MESH-3daccelerated.png)
 ![MESH Connectome](binaries/eidolon-mesh-v1.4-golden.png) 
 
