@@ -1,4 +1,4 @@
-# The Eidolon MESH P2P Local AI Companion - Your Knowledge Visualised as information geometry and resonance maps
+# The Eidolon MESH P2P Local AI Companion - Your Knowledge Visualised as information geometry and queryable by resonance mapping.
 ![MESH Connectome](binaries/Eidolon-MESH-3daccelerated.png)
 ![MESH Connectome](binaries/eidolon-mesh-v1.4-golden.png) 
 
