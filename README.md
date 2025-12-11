@@ -116,7 +116,7 @@ The ♥ symbol is not metaphor—it's a precise mathematical operator describing
 **Why astronomical possibilities → finite coherence:**
 
 Like the Mandelbrot set: infinite complexity at boundary, but only two outcomes (bounded or divergent).
-![MESH Connectome](binaries/MandelbrotBlue.jpg) 
+![MESH Connectome](binaries/Mandelbrot.png) 
 **In THE MESH:**
 - 768-dimensional embedding space = astronomical possible configurations
 - But only FINITE number of coherent recognition states
