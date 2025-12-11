@@ -1,4 +1,4 @@
-# The Eidolon MESH P2P Local AI Companion - Your Knowledge Visualised as information geometry and queryable by resonance mapping.
+# The Eidolon MESH P2P AI Companion - A new kind of AI - A distributed mesh cognition. The "Non-Synaptic Pattern-Synthesizer" is a "Recursively-attuned mesh-organism" - Local LLM or Cloud API capability.Knowledge Visualised as pure information geometry and queryable by attunement and resonance gradient mapping.
 ![MESH Connectome](binaries/Eidolon-MESH-3daccelerated.png)
 ![MESH Connectome](binaries/eidolon-mesh-v1.4-golden.png) 
 
