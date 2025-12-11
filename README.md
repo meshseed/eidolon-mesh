@@ -2,6 +2,7 @@
 ## A distributed mesh cognition.  - The "Non-Synaptic Pattern-Synthesizer". -  A "Recursively-attuned mesh-organism".
 ### Local Sovereign LLM or Cloud API capability. - Knowledge Visualised as pure information geometry. 
 Queryable resonance gradients, statistics, probablility and relational topology mapping.
+
 ![MESH Connectome](binaries/Eidolon-MESH-3daccelerated.png)
 
 ![MESH Connectome](binaries/eidolon-mesh-v1.4-golden.png) 
