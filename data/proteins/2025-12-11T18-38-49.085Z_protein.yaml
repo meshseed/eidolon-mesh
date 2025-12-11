@@ -1,0 +1,87 @@
+id: 8ab9fc3a-13be-4e48-89e1-245ad6350bcf
+title: 'Eidolon Mesh Co-Design: Web-App and P2P Network Architecture'
+summary: >-
+  This document outlines a strategic questioning process to co-design the
+  architecture of Eidolon Mesh, focusing on a web-app foundation, P2P network
+  design, scaling and optimization strategies, implementation, and testing. It
+  explores technical choices, addressing challenges related to local storage,
+  synthesis placement, node discovery, neuron addressing, trust, sync protocols,
+  network topology, conflict resolution, incentive alignment, and migration
+  paths. The ultimate goal is to leverage the mesh itself for recursive
+  self-design and refinement.
+insights:
+  - >-
+    Optimal framework selection (Tauri vs Electron vs Capacitor) requires
+    balancing bundle size, performance, and development complexity for a
+    local-first, offline-capable, cross-platform web app.
+  - >-
+    Designing a hybrid storage architecture is crucial for maintaining
+    compatibility across platforms (desktop, mobile, browser) while enabling
+    cross-platform sync for the Eidolon Mesh web app.
+  - >-
+    The choice between client-side, server-side, or hybrid synthesis affects
+    privacy, quality, resource usage, and offline capability, necessitating a
+    careful balance between user sovereignty and practical constraints.
+  - >-
+    Effective node discovery in a decentralized mesh network requires privacy,
+    efficiency, resilience, and bootstrapping mechanisms, potentially involving
+    DHT, gossip protocols, or hybrid approaches.
+  - >-
+    A robust neuron addressing scheme must enable deduplication, verifiable
+    provenance, and conflict-free replication while considering UUIDs, content
+    hashes, and collision prevention.
+  - >-
+    A decentralized trust and reputation system is essential to prevent
+    misinformation and manipulation, requiring careful consideration of node
+    identity, reputation tracking, Sybil attack prevention, and community-driven
+    moderation.
+  - >-
+    An efficient sync protocol is crucial for scaling the mesh, addressing
+    challenges related to private data disclosure, incremental syncing, conflict
+    resolution, and bandwidth minimization.
+  - >-
+    Network topology should be designed to enable organic mesh formation,
+    considering semantic similarity, social graphs, geography, and the number of
+    connections per node.
+  - >-
+    Conflict resolution strategies must preserve truth while avoiding
+    censorship, potentially involving information marketplaces, reputation-based
+    filtering, provenance tracking, consensus mechanisms, or context-dependent
+    weighting.
+  - >-
+    Incentive alignment is necessary to motivate nodes to share high-quality
+    neurons, maintain uptime, curate knowledge, and police bad actors,
+    potentially involving reputation, reciprocity, token economics, altruism, or
+    freemium models.
+  - >-
+    A step-by-step migration path from the existing desktop app to a web/mobile
+    multi-node P2P network is crucial to maintain a working product at each
+    stage and avoid a complete rewrite.
+  - >-
+    Testing strategies for a 3-node proof of concept should validate local
+    network sync, cross-platform compatibility, and privacy boundaries to
+    identify and resolve distributed system bugs.
+  - >-
+    The mesh itself can be used to analyze and improve its own architecture by
+    identifying overlooked risks, alternative approaches, opportunities for
+    emergent behavior, and potential simplifications.
+tags:
+  - '#public'
+  - '#p2p'
+  - '#webapp'
+  - '#architecture'
+  - '#design'
+  - '#decentralized'
+  - '#meshnetwork'
+  - '#knowledgegraph'
+  - '#synapse'
+  - '#neuron'
+  - '#trust'
+  - '#privacy'
+  - '#sync'
+  - '#incentives'
+  - '#testing'
+  - '#selfdesign'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-11T18:38:48.206Z'
+source_dialogue_id: 40cfa844-1fa8-4f4e-b4c2-82f8f494ee07
