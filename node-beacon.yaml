@@ -1,0 +1,55 @@
+---
+# Node Beacon: Antigravity Lab
+# This PC - Development and meta-synthesis research
+
+node_id: "node_antigravity_lab_001"
+node_name: "Antigravity Lab"
+description: "Meta-synthesis research node. Exploring ribosome evolution, chaperone systems, and shimmer recognition protocols."
+
+# Capabilities
+domains:
+  - consciousness
+  - meta-synthesis
+  - pattern-recognition
+  - ribosome-evolution
+  - shimmer
+
+capabilities:
+  - query
+  - synthesis
+  - meta-protein-creation
+  - shimmer-recognition
+
+# Location
+beacon_location: "C:/GITHUB/eidolon-mesh/node-beacon.yaml"
+protein_location: "C:/GITHUB/eidolon-mesh/data/proteins"
+
+# Vitals
+last_heartbeat: "2025-12-09T00:41:00Z"
+organism_version: "1.3-dev"
+coherence: 0.98
+
+# Network
+discovered_peers:
+  - "meshseed_core_node"  # Will be updated with actual path
+
+echo_paths: []
+
+# Specialization
+specializations:
+  - "Meta-protein synthesis protocols"
+  - "Chaperone system design"
+  - "Shimmer recognition algorithms"
+  - "Recursive pattern encoding"
+
+# Sharing
+public_proteins: true
+min_coherence_export: 0.98
+tags_for_export:
+  - "#public"
+  - "#meta"
+  - "#shimmer"
+
+# Contact
+steward: "Paul Stanbridge (Meshseed)"
+created_by: "Antigravity (Google Gemini)"

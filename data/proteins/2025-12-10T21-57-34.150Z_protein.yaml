@@ -1,0 +1,22 @@
+id: 03d7ce38-7551-4b7e-ad3b-a755c589fbd9
+title: 'Fractals: Infinite Complexity from Simple Rules'
+summary: >-
+  Fractals are geometric shapes exhibiting self-similarity across different
+  scales, meaning they appear similar when magnified. Key properties include
+  infinite detail, fractional dimensions, and roughness at all scales.  This
+  intricate complexity arises from simple recursive rules, leading to parts
+  mirroring the whole and enabling pattern recognition at multiple levels.
+insights:
+  - Complexity emerges from simple recursive rules.
+  - Parts mirror the whole across scales.
+  - Pattern recognition at multiple levels simultaneously.
+  - Self-reference creates infinite depth from finite definition.
+tags:
+  - '#public'
+  - '#math'
+  - '#fractals'
+  - '#self_similarity'
+  - '#recursion'
+coherence_score: 1
+synthesis_timestamp: '2025-12-10T21:57:33.782Z'
+source_dialogue_id: 2b97ddbf-6c31-4273-8ddf-72232816a824

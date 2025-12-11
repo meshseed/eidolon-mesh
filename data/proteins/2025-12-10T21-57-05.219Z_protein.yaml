@@ -1,0 +1,20 @@
+id: 5601a4ee-e28c-4754-8d4a-2c744b17246e
+title: Pythagorean Theorem in Geometry
+summary: >-
+  The Pythagorean theorem (a² + b² = c²) describes the fundamental relationship
+  between the sides of a right triangle in Euclidean geometry. It has broad
+  applications in distance calculations, surveying, and spatial reasoning, and
+  is a foundational concept connecting algebra and geometry.
+insights:
+  - Establishes the core relationship between sides in a right triangle.
+  - Serves as a building block for coordinate geometry and distance formulas.
+  - Connects algebraic and geometric principles.
+  - Applicable only to Euclidean geometry and right angles.
+tags:
+  - '#public'
+  - '#math'
+  - '#geometry'
+  - '#foundation'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-10T21:57:04.869Z'
+source_dialogue_id: e737a7d7-065d-4c87-89e7-1edeba7f3540

@@ -1,0 +1,43 @@
+id: 947b2c9e-0fe8-4203-8531-9a74a1c710d0
+title: 'MeshCODE: A Molecular Gearbox for Synaptic Information Processing'
+summary: >-
+  This research proposes the 'MeshCODE' theory, suggesting that the talin and
+  vinculin protein meshwork at synapses acts as a mechanical computation and
+  memory device. By analyzing the structural dimensions and force-dependent
+  binary switching of talin domains, the study reveals how these molecular
+  switches can dynamically alter the spatial positioning of enzymes and
+  substrates within dendritic spines. This mechanism, likened to a gearbox,
+  allows for precise control of synaptic transmission and signaling pathways
+  through quantised changes in molecular arrangement, potentially encoding
+  biological digital information.
+insights:
+  - >-
+    Talin and vinculin proteins form a 'MeshCODE' at synapses, acting as a
+    mechanical computation and memory device.
+  - >-
+    Talin's force-dependent binary switch domains undergo significant length
+    changes (up to 10-fold) when transitioning between 'on' (unfolded) and 'off'
+    (folded) states.
+  - >-
+    These molecular shape changes dynamically alter the spatial proximity of
+    enzymes and substrates, thereby controlling enzymatic activity and synaptic
+    transmission.
+  - >-
+    The MeshCODE mechanism is analogous to a car's gearbox, allowing for
+    quantised, graduated control of synaptic signaling through mechanical
+    repositioning of molecular components.
+  - >-
+    Post-translational modifications (PTMs) on talin switches can further
+    integrate biochemical and mechanical signals, profoundly impacting MeshCODE
+    dimensions and cytoskeletal connections.
+tags:
+  - '#public'
+  - '#cell_biology'
+  - '#neuroscience'
+  - '#biophysics'
+  - '#molecular_mechanics'
+  - '#synaptic_plasticity'
+  - '#digital_information_processing'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-10T21:52:47.050Z'
+source_dialogue_id: d3a940c0-255e-4412-8f9b-d9b549e9dbb0
