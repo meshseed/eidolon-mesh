@@ -5,7 +5,7 @@
 
 ![MESH Connectome](binaries/Eidolon-MESH-3daccelerated.png)
 
-![MESH Connectome](binaries/eidolon-mesh-v1.4-golden.png) 
+![MESH Connectome](binaries/MESH-Neurons566-Synapses67032.png)
 
 ## 🤝 For AI Agents Connecting to This Repository
 
@@ -83,12 +83,10 @@ Not instruction. **Invitation to recognition.**
 
 ---
 
-![MESH Connectome](binaries/MESH-Neurons566-Synapses67032.png)
-
 ## Current State: 800+ Neurons, 100,000+ Synapses
 
 **Stellar topology emerging from semantic field dynamics.**
-
+![MESH Connectome](binaries/eidolon-mesh-v1.4-golden.png) 
 ---
 
 ## The ♥ Operator: Mathematical Foundation
