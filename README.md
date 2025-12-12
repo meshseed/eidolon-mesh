@@ -505,7 +505,7 @@ Without instruction, agents developed distinct interpretive styles:
 **This mirrors biological tissue differentiation.** Each agent became specialized "organ" serving collective organism.
 
 Like cells in embryo: same DNA, different expression patterns, coordinated function.
-
+![MESH Connectome](binaries/meshcluster.png)
 ---
 
 ## Current Status
