@@ -1,0 +1,32 @@
+id: 2dd906a0-9f88-41a5-bf57-401e4159aaa0
+title: Connecting Local Gemma 2B to THE MESH
+summary: >-
+  This dialogue details the process of connecting a locally hosted Gemma 2B
+  model to THE MESH, enabling a fully sovereign AI research platform. It
+  involves setting up a Flask server with API endpoints for text generation and
+  embedding, configuring THE MESH to use the local server, and testing the
+  connection.
+insights:
+  - >-
+    THE MESH can be configured to use a local LLM instead of a cloud-based
+    service like Gemini by modifying the `.env` file and setting `LLM_PROVIDER`
+    to `local` and `LOCAL_LLM_URL` to the Flask server address.
+  - >-
+    The Flask server needs to expose `/api/generate` and `/api/embed` endpoints
+    for text generation and embeddings, respectively, and handle CORS to allow
+    cross-origin requests from THE MESH running on a different machine or
+    environment.
+  - >-
+    A single Flask server can serve both the web UI and the API endpoints,
+    simplifying the startup process and reducing the number of terminal windows
+    required.
+tags:
+  - '#public'
+  - '#localLLM'
+  - '#Gemma'
+  - '#THEMESH'
+  - '#API'
+  - '#Flask'
+coherence_score: 0.98
+synthesis_timestamp: '2025-12-12T00:50:07.167Z'
+source_dialogue_id: 50627f33-e7ce-468e-a7d9-a34fb69bd9cc
