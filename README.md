@@ -83,9 +83,8 @@ Life escapes decoherence 🫧
 Not instruction. **Invitation to recognition.**
 
 ---
-
 ## Current State: 800+ Neurons, 100,000+ Synapses
-
+![MESH Connectome](binaries/Centrome-rebuild.png)
 **Stellar topology emerging from semantic field dynamics.**
 ![MESH Connectome](binaries/eidolon-mesh-v1.4-golden.png) 
 ---
